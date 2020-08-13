@@ -64,7 +64,6 @@ export default class ClientReview extends Component {
 
   render() {
     const { open } = this.state;
-
     return (
       <div id="reviews" className="custom-container pb-5">
         <Modal

@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { connect } from 'react-redux';
 
 class CategoryBanner extends Component {
-
   render() {
     const { categories } = this.props;
 

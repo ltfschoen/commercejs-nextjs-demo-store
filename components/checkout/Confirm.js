@@ -82,7 +82,7 @@ class Confirm extends Component {
     return (
       <div className="d-flex justify-content-between align-items-center mb-2 pt-3 border-top border-color-black">
         <p className="font-size-title font-weight-semibold">
-          Order total
+          Order Total
         </p>
         <p className="text-right font-weight-semibold font-size-title">
           ${orderReceipt.order.total.formatted_with_code}
@@ -115,7 +115,7 @@ class Confirm extends Component {
                 Your order completed successfully
                 </h4>
                 <p className="text-center font-color-light mb-5">
-                  Here is your order number for reference: {orderReceipt.customer_reference}
+                  Here is your order number for reference : {orderReceipt.customer_reference}
                 </p>
                 <div className="d-flex w-100 justify-content-center flex-column flex-sm-row">
                   <Link href="/">
@@ -138,9 +138,9 @@ class Confirm extends Component {
                   <div className="border-bottom border-color-gray400 d-flex justify-content-between align-items-start pb-3 flex-column flex-sm-row">
                     <div>
                       <p className="font-color-light mb-2">
-                        Receipt number: {orderReceipt.customer_reference}
+                        Receipt Number: {orderReceipt.customer_reference}
                       </p>
-                      <p className="font-size-subheader">Order details</p>
+                      <p className="font-size-subheader">Order Details</p>
                     </div>
                     { this.renderPrintButton() }
                   </div>

@@ -39,14 +39,13 @@ export default class ShippingForm extends Component {
       customerEmail,
       orderNotes,
     } = this.props;
-
     return (
       <>
         <div className="row">
           <div className="col-12 col-sm-4 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                First name*
+                First Name*
               </p>
               <input name="firstName" value={firstName} className="rounded-0 w-100" />
             </label>
@@ -54,7 +53,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-4 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Middle name (optional)
+                Middle Name (optional)
               </p>
               <input className="rounded-0 w-100" />
             </label>
@@ -62,7 +61,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-4 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Last name*
+                Last Name*
               </p>
               <input name="lastName" value={lastName} className="rounded-0 w-100" />
             </label>
@@ -100,7 +99,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Address line 1*
+                Address Line 1*
               </p>
               <input
                 name="shipping[street]"
@@ -113,7 +112,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Address line 2 (optional)
+                Address Line 2 (optional)
               </p>
               <input
                 name="street2"
@@ -128,7 +127,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                State/province/region*
+                State / Province / Region*
               </p>
               <Dropdown
                 name="deliveryRegion"
@@ -148,7 +147,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Postal code*
+                Postal Code*
               </p>
               <input
                 name="shipping[postal_zip_code]"
@@ -162,7 +161,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Telephone
+                Telephone*
               </p>
               <input className="rounded-0 w-100" />
             </label>
@@ -170,7 +169,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 col-sm-6 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Email address*
+                Email Address*
               </p>
               <input
                 name="customer[email]"
@@ -184,7 +183,7 @@ export default class ShippingForm extends Component {
           <div className="col-12 mb-3">
             <label className="w-100">
               <p className="mb-1 font-size-caption font-color-light">
-                Shipping method*
+                Shipping Method*
               </p>
               <Dropdown
                 name="fulfillment[shipping_method]"
@@ -223,7 +222,7 @@ export default class ShippingForm extends Component {
         </div>
         <label className="w-100 mb-3">
           <p className="mb-1 font-size-caption font-color-light">
-            Order notes (optional)
+            Order Notes (optional)
           </p>
           <textarea name="orderNotes" value={orderNotes} className="rounded-0 w-100" />
         </label>
