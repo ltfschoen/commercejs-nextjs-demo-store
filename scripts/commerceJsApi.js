@@ -62,16 +62,13 @@ async function fetchCategories() {
  * The DELETE method is not supported for this route.
  * Supported methods: GET, HEAD, POST.
  */
-async function deleteAllCategories() {
-  const url = new URL(
+async function deleteAllCategories(type) {
+  const baseUrl = new URL(
     "https://api.chec.io/v1/categories"
   );
-
   let params = {
-    "type": "slug",
+    "type": type, // 'slug' or 'id'
   };
-  Object.keys(params)
-    .forEach(key => url.searchParams.append(key, params[key]));
 
   let headers = {
     "X-Authorization": `${process.env.CHEC_SECRET_KEY}`,
@@ -79,13 +76,20 @@ async function deleteAllCategories() {
     "Content-Type": "application/json",
   };
 
+  let categoryUrl;
   let category;
   let deletedCategories = [];
   const categories = await fetchCategories();
   for (const [key, value] of Object.entries(categories.data)) {
     // console.log(`${key}: ${JSON.stringify(value, null, 2)}`);
+    categoryUrl = (type == 'slug')
+      ? new URL(`${baseUrl}/${value.slug}`)
+      : new URL(`${baseUrl}/${value.id}`);
 
-    category = await fetch(`${url}/${value.slug}`, {
+    Object.keys(params)
+      .forEach(key => categoryUrl.searchParams.append(key, params[key]));
+
+    category = await fetch(categoryUrl, {
       method: "DELETE",
       headers: headers,
     })
@@ -112,7 +116,7 @@ async function main() {
   const categories = await fetchCategories();
   console.log('categories: ', categories);
 
-  await deleteAllCategories();
+  await deleteAllCategories('slug');
 }
 
 main()
