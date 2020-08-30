@@ -1,5 +1,12 @@
 # Demo Store with Commerce.js and Next.js 🛍️💳
 
+## Custom Changes
+
+* Updated .env with info from https://dashboard.chec.io/settings/developer
+* Created script to remove all seed data by deleting all products and categories to avoid conflicts when modifying the template (i.e. at https://dashboard.chec.io/products and https://dashboard.chec.io/categories)
+
+## Intro
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/157bb2e2-611e-4bbd-9a59-c876f8c3c58a/deploy-status)](https://app.netlify.com/sites/commercejs-demo-store/deploys)
 
 A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js SDK and Next.js with live deployment to Netlify.
