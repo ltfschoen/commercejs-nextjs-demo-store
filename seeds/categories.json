@@ -1,14 +1,26 @@
 [
   {
-    "slug": "facial-products",
+    "slug": "products-facial",
     "name": "Facial Products"
   },
   {
-    "slug": "hair-products",
+    "slug": "products-hair",
     "name": "Hair Products"
   },
   {
-    "slug": "body-products",
+    "slug": "products-body",
     "name": "Body Products"
+  },
+  {
+    "slug": "treatments-body",
+    "name": "Body Treatments"
+  },
+  {
+    "slug": "treatments-facial",
+    "name": "Facial Treatments"
+  },
+  {
+    "slug": "treatments-package",
+    "name": "Package Treatments"
   }
 ]

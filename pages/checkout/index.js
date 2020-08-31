@@ -25,8 +25,8 @@ class CheckoutPage extends Component {
     super(props);
     this.state = {
 
-      deliveryCountry: 'CA',
-      deliveryRegion: 'BC',
+      deliveryCountry: 'AU',
+      deliveryRegion: 'NSW',
 
       // string property names to conveniently identify inputs related to commerce.js validation errors
       // e.g error { param: "shipping[name]"}
@@ -34,10 +34,10 @@ class CheckoutPage extends Component {
       lastName: 'Doe',
       'customer[email]': 'john@doe.com',
       'shipping[name]': 'John Doe',
-      'shipping[street]': '318 Homer Street',
+      'shipping[street]': '1000 George Street',
       street2: '',
-      'shipping[town_city]': 'Vancouver',
-      'shipping[postal_zip_code]': 'V6B 2V2',
+      'shipping[town_city]': 'Sydney',
+      'shipping[postal_zip_code]': '2000',
       orderNotes: '',
       countries: {},
       subdivisions: {},
@@ -47,7 +47,7 @@ class CheckoutPage extends Component {
       expMonth: '11',
       expYear: '22',
       cvc: '123',
-      billingPostalZipcode: 'V6B 2V2',
+      billingPostalZipcode: '2000',
 
       errors: {
         'fulfillment[shipping_method]': null,
