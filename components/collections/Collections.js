@@ -50,14 +50,14 @@ class Collections extends Component {
           <div key={category.id} className="custom-container">
             <div className="row">
               <div className="col-2 d-none d-lg-block position-relative">
-                <p className="font-size-title font-weight-medium mb-3">
+                {/* <p className="font-size-title font-weight-medium mb-3">
                   {category.name}
-                </p>
+                </p> */}
                 <Link href={`/collection#${category.slug}`}>
                   <div className="mb-5">
                     <div className="d-flex">
                       <p className="mb-2 position-relative cursor-pointer">
-                        Products
+                        {category.name}
                         <span
                           className="position-absolute font-size-tiny text-right"
                           style={{ right: '-12px', top: '-4px' }}
@@ -154,7 +154,7 @@ class Collections extends Component {
           {/* Main Content */}
           <div ref={this.page} className="custom-container">
             <div className="row">
-              <div className="col-12 col-lg-10 offset-lg-2">
+              <div className="col-12 col-sm-9 offset-sm-3">
                 { this.renderCollection() }
               </div>
             </div>

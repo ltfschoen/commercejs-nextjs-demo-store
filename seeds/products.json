@@ -70,29 +70,6 @@
   },
   {
     "product": {
-      "name": "Lip Fantastic",
-      "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
-      "price": "24.00",
-      "category_id": "categories[0].id"
-    },
-    "variant": [
-      {
-        "name": "Size",
-        "options": [
-          {
-            "description": "30ml",
-            "price": "0.00"
-          },
-          {
-            "description": "50ml",
-            "price": "35.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
       "name": "Hair Beauty Bath",
       "description": "Made for your hair, a bath foam that brings your hair back to life.",
       "price": "25.00",
@@ -162,6 +139,29 @@
   },
   {
     "product": {
+      "name": "Lip Fantastic",
+      "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
+      "price": "24.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "Size",
+        "options": [
+          {
+            "description": "30ml",
+            "price": "0.00"
+          },
+          {
+            "description": "50ml",
+            "price": "35.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
       "name": "Complexion Cream",
       "description": "Anti-aging complexion cream for medium to dry skin. Nourish your face with a natural vitamin burst for that perfectly balanced glow.",
       "price": "32.00",
@@ -201,6 +201,213 @@
           {
             "description": "500ml",
             "price": "32.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Body Treatment 1 (Tanning)",
+      "description": "For a silky smooth finish, Body Treatment 1 is perfect.",
+      "price": "150.00",
+      "category_id": "categories[3].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Body Treatment 2 (Waxing)",
+      "description": "For a silky smooth finish, Body Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[3].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Body Treatment 3 (Massage)",
+      "description": "For a silky smooth finish, Body Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[3].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Facial Treatment 1",
+      "description": "For a silky smooth finish, Facial Treatment 1 is perfect.",
+      "price": "150.00",
+      "category_id": "categories[4].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Facial Treatment 2 (Intermediate)",
+      "description": "For a silky smooth finish, Facial Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[4].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Facial Treatment 3 (Advanced)",
+      "description": "For a silky smooth finish, Facial Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[4].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Package Treatment 1",
+      "description": "For a silky smooth finish, Package Treatment 1 is perfect.",
+      "price": "150.00",
+      "category_id": "categories[5].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Package Treatment 2",
+      "description": "For a silky smooth finish, Package Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[5].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Package Treatment 5",
+      "description": "For a silky smooth finish, Package Treatment is perfect.",
+      "price": "150.00",
+      "category_id": "categories[5].id"
+    },
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "150.00"
+          },
+          {
+            "description": "1 hour",
+            "price": "300.00"
           }
         ]
       }

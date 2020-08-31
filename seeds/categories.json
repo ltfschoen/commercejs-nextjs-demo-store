@@ -1,21 +1,42 @@
 [
   {
-    "slug": "facial-products",
+    "slug": "products-facial",
     "name": "Facial Products",
     "meta": {
       "image": "/images/collection/1.png"
     }
   },
   {
-    "slug": "hair-products",
+    "slug": "products-hair",
     "name": "Hair Products",
     "meta": {
       "image": "/images/collection/2.png"
     }
   },
   {
-    "slug": "body-products",
+    "slug": "products-body",
     "name": "Body Products",
+    "meta": {
+      "image": "/images/collection/2.png"
+    }
+  },
+  {
+    "slug": "treatments-body",
+    "name": "Body Treatments",
+    "meta": {
+      "image": "/images/collection/2.png"
+    }
+  },
+  {
+    "slug": "treatments-facial",
+    "name": "Facial Treatments",
+    "meta": {
+      "image": "/images/collection/2.png"
+    }
+  },
+  {
+    "slug": "treatments-package",
+    "name": "Package Treatments",
     "meta": {
       "image": "/images/collection/3.png"
     }

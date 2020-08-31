@@ -34,14 +34,14 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css"
           />
-          <meta property="og:title" content="Commerce.js | Demo storefront" />
+          <meta property="og:title" content="OTANÏ | Storefront" />
           <meta property="og:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
-          <meta property="og:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
+          <meta property="og:description" content="Storefront of OTANÏ skin therapy treatments and products" />
           <meta property="og:url" content="https://commercejs-demo-store.netlify.app" />
-          <meta property="twitter:title" content="Commerce.js | Demo storefront" />
-          <meta name="twitter:creator" content="@commercejs" />
+          <meta property="twitter:title" content="OTANÏ | Storefront" />
+          <meta name="twitter:creator" content="@otani" />
           <meta property="twitter:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
-          <meta property="twitter:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
+          <meta property="twitter:description" content="Storefront of OTANÏ skin therapy treatments and products" />
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <body>

@@ -4,6 +4,7 @@
 
 * Updated .env with info from https://dashboard.chec.io/settings/developer
 * Created script to remove all seed data by deleting all products and categories to avoid conflicts when modifying the template (i.e. at https://dashboard.chec.io/products and https://dashboard.chec.io/categories)
+* Note: Run `yarn build` to view console.logs
 
 ## Intro
 

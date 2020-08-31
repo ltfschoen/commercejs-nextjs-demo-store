@@ -5,42 +5,42 @@ import ProductRow from '../products/ProductRow';
 import filterOnlySlug from '../helpers/filterOnlySlug';
 import { connect } from 'react-redux';
 
-class ProductsBanner extends Component {
+class TreatmentsBanner extends Component {
   render() {
     const { products } = this.props;
-    const onlyProductsFromProducts = filterOnlySlug(products, 'products');
+    const onlyTreatmentsFromProducts = filterOnlySlug(products, 'treatments');
 
     return (
       <div className="custom-container py-5 my-5">
         <div className="d-flex flex-column align-items-center mb-5 pb-4">
           <p className="font-color-medium mb-4">
-            Introducing our Latest Products
+            Introducing our Latest Treatments
           </p>
           <p
             className="text-center font-size-display1 mb-3 font-weight-medium"
             style={{ maxWidth: '32rem' }}
           >
-            Limited reservations on upcoming products and restocks.
+            Reserve our Latest Treatments.
           </p>
           <Link href="/collection">
             <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">
-              <p className="mr-3">See more products</p>
+              <p className="mr-3">See more treatments</p>
               <img src="/icon/arrow-long-right.svg" />
             </a>
           </Link>
         </div>
-        <ProductRow products={onlyProductsFromProducts.slice(0, 4)} />
+        <ProductRow products={onlyTreatmentsFromProducts.slice(0, 4)} />
       </div>
     );
   }
 }
 
-ProductsBanner.propTypes = {
+TreatmentsBanner.propTypes = {
   products: PropTypes.arrayOf(PropTypes.object),
 };
 
-ProductsBanner.defaultProps = {
+TreatmentsBanner.defaultProps = {
   products: [],
 };
 
-export default connect(state => state)(ProductsBanner);
+export default connect(state => state)(TreatmentsBanner);
