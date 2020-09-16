@@ -2,6 +2,11 @@
   "name": "commercejs-nextjs-demo-store",
   "license": "BSD-3-Clause",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x",
+    "yarn": "1.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,7 +14,8 @@
     "deploy": "next build && next export",
     "lint": "eslint components lib pages store utils",
     "lint:fix": "eslint --fix components lib pages store utils",
-    "seed": "chec-seed seeds"
+    "seed": "chec-seed seeds",
+    "heroku-postbuild": "yarn && yarn build && yarn seed && yarn start"
   },
   "dependencies": {
     "@chec/commerce.js": "^2.3.0-beta2",
