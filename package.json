@@ -15,7 +15,7 @@
     "lint": "eslint components lib pages store utils",
     "lint:fix": "eslint --fix components lib pages store utils",
     "seed": "chec-seed seeds",
-    "heroku-postbuild": "yarn && yarn build && yarn seed && yarn start"
+    "heroku-postbuild": "yarn && npm install -g @chec/seeder && yarn build && yarn seed && yarn start"
   },
   "dependencies": {
     "@chec/commerce.js": "^2.0.1",
