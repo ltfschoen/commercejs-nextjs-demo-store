@@ -17,6 +17,25 @@ yarn dev
 * Note: Run `yarn build` to view console.logs
 * Build `yarn build` to view changes during development
 
+## Deploy Heroku
+
+```
+heroku login
+heroku apps:create otani-skin
+heroku git:remote -a otani-skin
+heroku config:set \
+  KEY1=VALUE \
+  KEY2=VALUE
+heroku config --app otani-skin
+git push -f heroku master
+heroku local web
+heroku ps:scale web=1:free
+heroku ps
+heroku open
+heroku logs --tail
+heroku restart
+```
+
 ## Intro
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/157bb2e2-611e-4bbd-9a59-c876f8c3c58a/deploy-status)](https://app.netlify.com/sites/commercejs-demo-store/deploys)
