@@ -1,10 +1,21 @@
 # Demo Store with Commerce.js and Next.js 🛍️💳
 
+## Quickstart
+
+```
+node ./scripts/commerceJsApi.js
+yarn
+yarn seed
+yarn build
+yarn dev
+``` 
+
 ## Custom Changes
 
 * Updated .env with info from https://dashboard.chec.io/settings/developer
 * Created script to remove all seed data by deleting all products and categories to avoid conflicts when modifying the template (i.e. at https://dashboard.chec.io/products and https://dashboard.chec.io/categories)
 * Note: Run `yarn build` to view console.logs
+* Build `yarn build` to view changes during development
 
 ## Intro
 
