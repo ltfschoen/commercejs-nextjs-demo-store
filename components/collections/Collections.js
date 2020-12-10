@@ -37,37 +37,72 @@ class Collections extends Component {
     window.requestAnimationFrame(animate);
   }
 
+  // Reference: https://stackoverflow.com/a/63275776/3208553
+  sortCategoriesAlphabetically = (categories) => {
+    const filteredData = categories.sort((a, b) => {
+      const [aCat, aStr] = a.slug.split('-');
+      const [bCat, bStr] = b.slug.split('-');
+
+      return aCat.localeCompare(bCat) || aStr.localeCompare(bStr);
+    });
+    console.log('filteredData: ', filteredData);
+    return filteredData;
+  }
+
+  restructureCategoryData = (categories) => {
+    let restructuredData = {};
+    let key, value;
+    categories.forEach((category) => {
+      key = category.slug.split('-')[0]; // categoryName
+      value = category.slug.split('-')[1];
+      restructuredData[key] = category;
+      restructuredData[key]['subCategoryName'] = value;
+    });
+    console.log('restructuredData: ', restructuredData);
+    return restructuredData;
+  }
+
   renderSidebar() {
     const { categories } = this.props;
+    console.log('categories', categories);
+    const sortedCategories = this.sortCategoriesAlphabetically(categories);
+    const restructuredCategoryData = this.restructureCategoryData(sortedCategories);
+    console.log('restructuredCategoryData', restructuredCategoryData);
 
     return (
       <>
-      {categories.map(category => (
-      <div key={category.id} className="custom-container">
+      {Object.entries(restructuredCategoryData).forEach((categoryNameOuter, categoryOuter) => {
+      <div key={categoryOuter.id} className="custom-container">
         <div className="row">
           <div className="col-2 d-xs-none d-sm-block position-relative">
-            {/* <p className="font-size-title font-weight-medium mb-3">
-              {category.name}
-            </p> */}
-            <Link href={`/collection#${category.slug}`}>
-              <div className="mb-3">
-                <div className="d-flex">
-                  <p className="mb-2 position-relative cursor-pointer">
-                    {category.name}
-                    <span
-                      className="position-absolute font-size-tiny text-right"
-                      style={{ right: '-12px', top: '-4px' }}
-                    >
-                      {category.count}
-                    </span>
-                  </p>
-                </div>
-              </div>
-            </Link>
+            <p className="font-size-title font-weight-medium mb-3">
+              {categoryNameOuter}
+            </p>
+            {Object.values(restructuredCategoryData).forEach((categoryInner) => {
+              // <span>{JSON.stringify(categoryInner)}</span>
+              categoryInner.slug.split('-')[0] == categoryNameOuter ? (
+                // <div>blah</div>
+                <Link href={`/collection#${categoryInner.slug}`}>
+                  <div className="mb-3">
+                    <div className="d-flex">
+                      <p className="mb-2 position-relative cursor-pointer">
+                        {categoryInner.name}
+                        <span
+                          className="position-absolute font-size-tiny text-right"
+                          style={{ right: '-12px', top: '-4px' }}
+                        >
+                          {categoryInner.count}
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </Link>
+              ) : null
+            })}
           </div>
         </div>
       </div>
-      ))}
+      })}
     </>
     )
   }
@@ -75,7 +110,7 @@ class Collections extends Component {
   /**
   * Filter products by category
   */
-   filterProductsByCat(catSlug) {
+  filterProductsByCat(catSlug) {
     const { categories, products } = this.props;
 
     const cat = categories.find(category => category.slug === catSlug);
