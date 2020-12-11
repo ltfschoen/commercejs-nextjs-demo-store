@@ -33,6 +33,10 @@ class MyApp extends App {
     const { data: products } = await commerce.products.list();
     const { data: categories } = await commerce.categories.list();
 
+    // products.forEach(product => {
+    //   console.log('product categories: ', JSON.stringify(product.categories));
+    // });
+
     // Allows store to be updated via the dispatch action
     ctx.store.dispatch({ type: 'STORE_CATEGORIES', payload: categories });
     ctx.store.dispatch({ type: 'STORE_PRODUCTS', payload: products });

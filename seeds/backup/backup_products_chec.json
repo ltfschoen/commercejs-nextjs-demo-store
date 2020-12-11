@@ -1,0 +1,3086 @@
+[
+  {
+    "id": "prod_ZRjywMk2Z57Y8G",
+    "created": 1607679891,
+    "active": true,
+    "permalink": "stJqxf",
+    "name": "Face & Body Roller",
+    "description": "Enrich your morning and evening beauty ritual and to help reduce the appearance of puffiness and wrinkles",
+    "price": {
+      "raw": 18,
+      "formatted": "18.00",
+      "formatted_with_symbol": "$18.00",
+      "formatted_with_code": "18.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/mAvFwSBgnuw1DD8O|roller-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/stJqxf?checkout=true",
+      "display": "https://checkout.chec.io/stJqxf"
+    },
+    "last_updated": 1607679891,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_O3bR5XxpM5nzdj",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_yA6nldpOBlEWbz",
+            "name": "200ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_VPvL5z91QoAQkX",
+            "name": "500ml",
+            "price": {
+              "raw": 34,
+              "formatted": "34.00",
+              "formatted_with_symbol": "$34.00",
+              "formatted_with_code": "34.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_LvJjoPJNple0nO",
+        "url": "https://cdn.chec.io/merchants/18708/assets/eCWkzoge7wI2fdhs|roller-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679931,
+        "updated_at": 1607679931,
+        "data": {
+          "name": "roller-2.jpg",
+          "ext": "jpg",
+          "size": 1443804
+        }
+      },
+      {
+        "id": "ast_VKXmwDrBX5rgDA",
+        "url": "https://cdn.chec.io/merchants/18708/assets/mAvFwSBgnuw1DD8O|roller-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679927,
+        "updated_at": 1607679927,
+        "data": {
+          "name": "roller-3.jpg",
+          "ext": "jpg",
+          "size": 1424347
+        }
+      },
+      {
+        "id": "ast_eN1ql9dpp5z3ym",
+        "url": "https://cdn.chec.io/merchants/18708/assets/URFMY5r8tJv0w8e6|roller.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679934,
+        "updated_at": 1607679934,
+        "data": {
+          "name": "roller.jpg",
+          "ext": "jpg",
+          "size": 1349079
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_aZWNoymNjo80JA",
+    "created": 1607679891,
+    "active": true,
+    "permalink": "Tr44G5",
+    "name": "Cure Scrub Kit",
+    "description": "Cleanse and rejuvenate your skin with bamboo bristle scrubbing brushes.",
+    "price": {
+      "raw": 51,
+      "formatted": "51.00",
+      "formatted_with_symbol": "$51.00",
+      "formatted_with_code": "51.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/tAeTsgZt4iAl6txM|scrub-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/Tr44G5?checkout=true",
+      "display": "https://checkout.chec.io/Tr44G5"
+    },
+    "last_updated": 1607679891,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_RyWOwmerAwnEa2",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_nPEVlNq8A5a7dM",
+            "name": "100ml kit",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_9BAmwJDV15eXdn",
+            "name": "500ml kit",
+            "price": {
+              "raw": 100,
+              "formatted": "100.00",
+              "formatted_with_symbol": "$100.00",
+              "formatted_with_code": "100.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_gnZO5k7E657MNq",
+        "url": "https://cdn.chec.io/merchants/18708/assets/tAeTsgZt4iAl6txM|scrub-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3600
+        },
+        "meta": [],
+        "created_at": 1607679935,
+        "updated_at": 1607679935,
+        "data": {
+          "name": "scrub-3.jpg",
+          "ext": "jpg",
+          "size": 756673
+        }
+      },
+      {
+        "id": "ast_7ZAMo18ZMwNJ4x",
+        "url": "https://cdn.chec.io/merchants/18708/assets/zGOvK6hFN1PIqbII|scrub-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3601
+        },
+        "meta": [],
+        "created_at": 1607679938,
+        "updated_at": 1607679938,
+        "data": {
+          "name": "scrub-2.jpg",
+          "ext": "jpg",
+          "size": 672306
+        }
+      },
+      {
+        "id": "ast_r2LM5QnN6lZV1g",
+        "url": "https://cdn.chec.io/merchants/18708/assets/uaVf5xe4xRSmZd7s|scrub.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "meta": [],
+        "created_at": 1607679940,
+        "updated_at": 1607679940,
+        "data": {
+          "name": "scrub.jpg",
+          "ext": "jpg",
+          "size": 251238
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_BkyN5YXnxo0b69",
+    "created": 1607679892,
+    "active": true,
+    "permalink": "OWrPZO",
+    "name": "Molecule Body Oil",
+    "description": "For a silky smooth finish, the Molecule Body Oil is a perfect addition for your post shower treatment.",
+    "price": {
+      "raw": 23,
+      "formatted": "23.00",
+      "formatted_with_symbol": "$23.00",
+      "formatted_with_code": "23.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/mbMCTpEtvMPRwCWX|body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/OWrPZO?checkout=true",
+      "display": "https://checkout.chec.io/OWrPZO"
+    },
+    "last_updated": 1607679892,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_ypbroE12Po8n4e",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_mOVKl4x18lprRP",
+            "name": "100ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_ZM8X5n6KJ5pv4q",
+            "name": "500ml",
+            "price": {
+              "raw": 40,
+              "formatted": "40.00",
+              "formatted_with_symbol": "$40.00",
+              "formatted_with_code": "40.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_NXELwjgmko3A4p",
+        "url": "https://cdn.chec.io/merchants/18708/assets/mbMCTpEtvMPRwCWX|body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607679943,
+        "updated_at": 1607679943,
+        "data": {
+          "name": "body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_L1vOoZVy3oRa8Z",
+        "url": "https://cdn.chec.io/merchants/18708/assets/bSKmoKvGGrKa03pr|body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679948,
+        "updated_at": 1607679948,
+        "data": {
+          "name": "body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_0YnEoqGrmle7P6",
+        "url": "https://cdn.chec.io/merchants/18708/assets/fqzISg9qzDe0DR60|body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679950,
+        "updated_at": 1607679950,
+        "data": {
+          "name": "body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_31q0o34m15DdjR",
+    "created": 1607679896,
+    "active": true,
+    "permalink": "xcWwTD",
+    "name": "Hair Beauty Bath",
+    "description": "Made for your hair, a bath foam that brings your hair back to life.",
+    "price": {
+      "raw": 25,
+      "formatted": "25.00",
+      "formatted_with_symbol": "$25.00",
+      "formatted_with_code": "25.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/3EEOXIzpUEJtDil9|lips-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/xcWwTD?checkout=true",
+      "display": "https://checkout.chec.io/xcWwTD"
+    },
+    "last_updated": 1607679896,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_Kvg9l6VMpl1bB7",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_gvRjwODvAo4mNL",
+            "name": "100ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_N7GKwb04N53EX4",
+            "name": "300ml",
+            "price": {
+              "raw": 18,
+              "formatted": "18.00",
+              "formatted_with_symbol": "$18.00",
+              "formatted_with_code": "18.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_kd6Ll2eq15V2mj",
+        "url": "https://cdn.chec.io/merchants/18708/assets/3EEOXIzpUEJtDil9|lips-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607679953,
+        "updated_at": 1607679953,
+        "data": {
+          "name": "lips-3.jpg",
+          "ext": "jpg",
+          "size": 1541041
+        }
+      },
+      {
+        "id": "ast_4OANwRbNBwvYL8",
+        "url": "https://cdn.chec.io/merchants/18708/assets/HOzRAJ9brQkVpA5z|lips-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679959,
+        "updated_at": 1607679959,
+        "data": {
+          "name": "lips-2.jpg",
+          "ext": "jpg",
+          "size": 1181305
+        }
+      },
+      {
+        "id": "ast_yA6nlddNalEWbz",
+        "url": "https://cdn.chec.io/merchants/18708/assets/YBj6Fxkr1wQs6qDa|lips.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607679961,
+        "updated_at": 1607679961,
+        "data": {
+          "name": "lips.jpg",
+          "ext": "jpg",
+          "size": 1372960
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_p6dP5gEnWwn7kA",
+    "created": 1607679897,
+    "active": true,
+    "permalink": "xuxGuz",
+    "name": "Shampoo & Conditioner Set",
+    "description": "Weightless, color safe, and cleansing Verb Ghost shampoo and conditioner set.",
+    "price": {
+      "raw": 65,
+      "formatted": "65.00",
+      "formatted_with_symbol": "$65.00",
+      "formatted_with_code": "65.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/3BwaZ3VVO9r6kypu|hair-beauty-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/xuxGuz?checkout=true",
+      "display": "https://checkout.chec.io/xuxGuz"
+    },
+    "last_updated": 1607679897,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_NqKE50r4gwdgBL",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_ZRjywMyG4w7Y8G",
+            "name": "500ml kit",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_aZWNoy9kNo80JA",
+            "name": "750ml kit",
+            "price": {
+              "raw": 25,
+              "formatted": "25.00",
+              "formatted_with_symbol": "$25.00",
+              "formatted_with_code": "25.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_VPvL5zzBq5AQkX",
+        "url": "https://cdn.chec.io/merchants/18708/assets/3BwaZ3VVO9r6kypu|hair-beauty-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "meta": [],
+        "created_at": 1607679969,
+        "updated_at": 1607679969,
+        "data": {
+          "name": "hair-beauty-3.jpg",
+          "ext": "jpg",
+          "size": 225996
+        }
+      },
+      {
+        "id": "ast_nPEVlNR2jla7dM",
+        "url": "https://cdn.chec.io/merchants/18708/assets/92RHpLF1isgvp62n|hair-beauty-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1607679977,
+        "updated_at": 1607679977,
+        "data": {
+          "name": "hair-beauty-2.jpg",
+          "ext": "jpg",
+          "size": 303181
+        }
+      },
+      {
+        "id": "ast_9BAmwJ9QMleXdn",
+        "url": "https://cdn.chec.io/merchants/18708/assets/9ZyAgqcxMNMWUztN|hair-beauty.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3011
+        },
+        "meta": [],
+        "created_at": 1607679982,
+        "updated_at": 1607679982,
+        "data": {
+          "name": "hair-beauty.jpg",
+          "ext": "jpg",
+          "size": 186678
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_AYrQlWAnJonbR4",
+    "created": 1607679898,
+    "active": true,
+    "permalink": "cpdnvf",
+    "name": "Rose Hair & Body Oil",
+    "description": "A multitasking oil for hair and body that’s perfect for those on the go.",
+    "price": {
+      "raw": 38,
+      "formatted": "38.00",
+      "formatted_with_symbol": "$38.00",
+      "formatted_with_code": "38.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/xuLowW4ZaZQOefg2|hair-set-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/cpdnvf?checkout=true",
+      "display": "https://checkout.chec.io/cpdnvf"
+    },
+    "last_updated": 1607679898,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_kpnNwAD4klmXB3",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_BkyN5YBjLl0b69",
+            "name": "50ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_31q0o3qkglDdjR",
+            "name": "75ml",
+            "price": {
+              "raw": 60,
+              "formatted": "60.00",
+              "formatted_with_symbol": "$60.00",
+              "formatted_with_code": "60.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_mOVKl4PmdlprRP",
+        "url": "https://cdn.chec.io/merchants/18708/assets/xuLowW4ZaZQOefg2|hair-set-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3600
+        },
+        "meta": [],
+        "created_at": 1607679984,
+        "updated_at": 1607679984,
+        "data": {
+          "name": "hair-set-3.jpg",
+          "ext": "jpg",
+          "size": 371941
+        }
+      },
+      {
+        "id": "ast_ZM8X5npAQwpv4q",
+        "url": "https://cdn.chec.io/merchants/18708/assets/dPlBNmAF6kFONnTj|hair-set-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1607679986,
+        "updated_at": 1607679986,
+        "data": {
+          "name": "hair-set-2.jpg",
+          "ext": "jpg",
+          "size": 1113029
+        }
+      },
+      {
+        "id": "ast_gvRjwOzN4l4mNL",
+        "url": "https://cdn.chec.io/merchants/18708/assets/3Z4ZX2bjwD1pz57b|hair-set.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3400
+        },
+        "meta": [],
+        "created_at": 1607679989,
+        "updated_at": 1607679989,
+        "data": {
+          "name": "hair-set.jpg",
+          "ext": "jpg",
+          "size": 438886
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_G6kVw7yAd52eDx",
+    "created": 1607679902,
+    "active": true,
+    "permalink": "ce0yH7",
+    "name": "Lip Fantastic",
+    "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
+    "price": {
+      "raw": 24,
+      "formatted": "24.00",
+      "formatted_with_symbol": "$24.00",
+      "formatted_with_code": "24.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/9WycuWnPRHLUnhCS|hair-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/ce0yH7?checkout=true",
+      "display": "https://checkout.chec.io/ce0yH7"
+    },
+    "last_updated": 1607679902,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_8XO3wp7L4lYAzQ",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_p6dP5gV6gon7kA",
+            "name": "30ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_AYrQlWx1rwnbR4",
+            "name": "50ml",
+            "price": {
+              "raw": 35,
+              "formatted": "35.00",
+              "formatted_with_symbol": "$35.00",
+              "formatted_with_code": "35.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_N7GKwbZNZw3EX4",
+        "url": "https://cdn.chec.io/merchants/18708/assets/9WycuWnPRHLUnhCS|hair-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3600
+        },
+        "meta": [],
+        "created_at": 1607679991,
+        "updated_at": 1607679991,
+        "data": {
+          "name": "hair-oil-3.jpg",
+          "ext": "jpg",
+          "size": 1359209
+        }
+      },
+      {
+        "id": "ast_ZRjywMq4rw7Y8G",
+        "url": "https://cdn.chec.io/merchants/18708/assets/7Y6N6IBTu4HpGD9C|hair-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3600
+        },
+        "meta": [],
+        "created_at": 1607679999,
+        "updated_at": 1607679999,
+        "data": {
+          "name": "hair-oil-2.jpg",
+          "ext": "jpg",
+          "size": 1427763
+        }
+      },
+      {
+        "id": "ast_aZWNoyRBY580JA",
+        "url": "https://cdn.chec.io/merchants/18708/assets/HyGj6BV1VDFdOPrc|hair-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3600
+        },
+        "meta": [],
+        "created_at": 1607680001,
+        "updated_at": 1607680001,
+        "data": {
+          "name": "hair-oil.jpg",
+          "ext": "jpg",
+          "size": 348638
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_O3bR5XpYM5nzdj",
+    "created": 1607679903,
+    "active": true,
+    "permalink": "RYOUXZ",
+    "name": "Complexion Cream",
+    "description": "Anti-aging complexion cream for medium to dry skin. Nourish your face with a natural vitamin burst for that perfectly balanced glow.",
+    "price": {
+      "raw": 32,
+      "formatted": "32.00",
+      "formatted_with_symbol": "$32.00",
+      "formatted_with_code": "32.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/w7AoStwNMF9aKGvh|cream-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/RYOUXZ?checkout=true",
+      "display": "https://checkout.chec.io/RYOUXZ"
+    },
+    "last_updated": 1607679903,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_bO6J5axeyoEjpK",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_G6kVw7bX2l2eDx",
+            "name": "100ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_O3bR5XbQQwnzdj",
+            "name": "500ml",
+            "price": {
+              "raw": 57,
+              "formatted": "57.00",
+              "formatted_with_symbol": "$57.00",
+              "formatted_with_code": "57.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_BkyN5Ya4A50b69",
+        "url": "https://cdn.chec.io/merchants/18708/assets/w7AoStwNMF9aKGvh|cream-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3825
+        },
+        "meta": [],
+        "created_at": 1607680056,
+        "updated_at": 1607680056,
+        "data": {
+          "name": "cream-3.jpg",
+          "ext": "jpg",
+          "size": 1237374
+        }
+      },
+      {
+        "id": "ast_31q0o3BN9wDdjR",
+        "url": "https://cdn.chec.io/merchants/18708/assets/2Jn141TAcXqCjcYW|cream-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680059,
+        "updated_at": 1607680059,
+        "data": {
+          "name": "cream-2.jpg",
+          "ext": "jpg",
+          "size": 333854
+        }
+      },
+      {
+        "id": "ast_p6dP5gO4M5n7kA",
+        "url": "https://cdn.chec.io/merchants/18708/assets/PLvCg96CmHuwyU0l|cream.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680067,
+        "updated_at": 1607680067,
+        "data": {
+          "name": "cream.jpg",
+          "ext": "jpg",
+          "size": 1141510
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_RyWOwmrNAonEa2",
+    "created": 1607679904,
+    "active": true,
+    "permalink": "MzRi1E",
+    "name": "Eye Purity Gels",
+    "description": "Treat your skin with active pore enzymes that replenish sun damaged skin.",
+    "price": {
+      "raw": 18,
+      "formatted": "18.00",
+      "formatted_with_symbol": "$18.00",
+      "formatted_with_code": "18.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/tMXmjW1czMjUds23|gel-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/MzRi1E?checkout=true",
+      "display": "https://checkout.chec.io/MzRi1E"
+    },
+    "last_updated": 1607679904,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_A12JwrQ8XlPjnk",
+        "name": "Size",
+        "options": [
+          {
+            "id": "optn_RyWOwmEVxwnEa2",
+            "name": "100ml",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_ypbroEn0X58n4e",
+            "name": "500ml",
+            "price": {
+              "raw": 32,
+              "formatted": "32.00",
+              "formatted_with_symbol": "$32.00",
+              "formatted_with_code": "32.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_G6kVw7ZNjl2eDx",
+        "url": "https://cdn.chec.io/merchants/18708/assets/HpYg2wSBtkSVCfgz|gel-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680071,
+        "updated_at": 1607680071,
+        "data": {
+          "name": "gel-2.jpg",
+          "ext": "jpg",
+          "size": 1177258
+        }
+      },
+      {
+        "id": "ast_AYrQlW6Ya5nbR4",
+        "url": "https://cdn.chec.io/merchants/18708/assets/tMXmjW1czMjUds23|gel-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680069,
+        "updated_at": 1607680069,
+        "data": {
+          "name": "gel-3.jpg",
+          "ext": "jpg",
+          "size": 1015096
+        }
+      },
+      {
+        "id": "ast_O3bR5XA4Plnzdj",
+        "url": "https://cdn.chec.io/merchants/18708/assets/OpKY99rrF1j8fBcR|gel.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680073,
+        "updated_at": 1607680073,
+        "data": {
+          "name": "gel.jpg",
+          "ext": "jpg",
+          "size": 1063841
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_ypbroE2PP58n4e",
+    "created": 1607679905,
+    "active": true,
+    "permalink": "0jz0bB",
+    "name": "Body Treatment 1 (Tanning)",
+    "description": "For a silky smooth finish, Body Treatment 1 is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/2s8bnoKgZlI8sPdk|treatment-body-1-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/0jz0bB?checkout=true",
+      "display": "https://checkout.chec.io/0jz0bB"
+    },
+    "last_updated": 1607679905,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_Op1YoVz0doXLv9",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_Kvg9l6xjyo1bB7",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_NqKE50xDX5dgBL",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_RyWOwm0AMlnEa2",
+        "url": "https://cdn.chec.io/merchants/18708/assets/2s8bnoKgZlI8sPdk|treatment-body-1-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680075,
+        "updated_at": 1607680075,
+        "data": {
+          "name": "treatment-body-1-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_ypbroEKN8l8n4e",
+        "url": "https://cdn.chec.io/merchants/18708/assets/nRiG0x6yTtsBsd7E|treatment-body-1-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680077,
+        "updated_at": 1607680077,
+        "data": {
+          "name": "treatment-body-1-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_Kvg9l6QY251bB7",
+        "url": "https://cdn.chec.io/merchants/18708/assets/VPT6eXjkl743eSfl|treatment-body-1-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680080,
+        "updated_at": 1607680080,
+        "data": {
+          "name": "treatment-body-1-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_Kvg9l6M0p51bB7",
+    "created": 1607679909,
+    "active": true,
+    "permalink": "9UWrH2",
+    "name": "Body Treatment 2 (Waxing)",
+    "description": "For a silky smooth finish, Body Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/PrSKfppFCOXQm5sm|treatment-body-2-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/9UWrH2?checkout=true",
+      "display": "https://checkout.chec.io/9UWrH2"
+    },
+    "last_updated": 1607679909,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_4WJvlK9XxobYV1",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_kpnNwAKOX5mXB3",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_8XO3wpAGZoYAzQ",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_NqKE50LR15dgBL",
+        "url": "https://cdn.chec.io/merchants/18708/assets/PrSKfppFCOXQm5sm|treatment-body-2-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680085,
+        "updated_at": 1607680085,
+        "data": {
+          "name": "treatment-body-2-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_kpnNwAENzwmXB3",
+        "url": "https://cdn.chec.io/merchants/18708/assets/bFt5B5rk08A5YDyO|treatment-body-2-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680090,
+        "updated_at": 1607680090,
+        "data": {
+          "name": "treatment-body-2-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_8XO3wpKrAlYAzQ",
+        "url": "https://cdn.chec.io/merchants/18708/assets/BJqdqKGgzPuh4Q9X|treatment-body-2-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680095,
+        "updated_at": 1607680095,
+        "data": {
+          "name": "treatment-body-2-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_NqKE504Mg5dgBL",
+    "created": 1607679910,
+    "active": true,
+    "permalink": "QMv1UM",
+    "name": "Body Treatment 3 (Massage)",
+    "description": "For a silky smooth finish, Body Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/4VwZZPCvnhRRqvfL|treatment-body-3-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/QMv1UM?checkout=true",
+      "display": "https://checkout.chec.io/QMv1UM"
+    },
+    "last_updated": 1607679910,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_zkK6oLMk15Xn0Q",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_bO6J5a6JVlEjpK",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_A12JwraXvlPjnk",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_bO6J5aQ425EjpK",
+        "url": "https://cdn.chec.io/merchants/18708/assets/4VwZZPCvnhRRqvfL|treatment-body-3-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680100,
+        "updated_at": 1607680100,
+        "data": {
+          "name": "treatment-body-3-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_A12JwrvKYwPjnk",
+        "url": "https://cdn.chec.io/merchants/18708/assets/4Vx4ySeny1oYCiD4|treatment-body-3-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680111,
+        "updated_at": 1607680111,
+        "data": {
+          "name": "treatment-body-3-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_Op1YoVm4ywXLv9",
+        "url": "https://cdn.chec.io/merchants/18708/assets/NQRrHpae6SKIDQqs|treatment-body-3-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680115,
+        "updated_at": 1607680115,
+        "data": {
+          "name": "treatment-body-3-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_kpnNwA4eklmXB3",
+    "created": 1607679917,
+    "active": true,
+    "permalink": "S3N9ZT",
+    "name": "Facial Treatment 1",
+    "description": "For a silky smooth finish, Facial Treatment 1 is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/5a43Oqz8vc1uB0na|treatment-facial-1-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/S3N9ZT?checkout=true",
+      "display": "https://checkout.chec.io/S3N9ZT"
+    },
+    "last_updated": 1607679917,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_DWy4oGeznl6Jx2",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_Op1YoVedMwXLv9",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_4WJvlKMDpobYV1",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_4WJvlK14aobYV1",
+        "url": "https://cdn.chec.io/merchants/18708/assets/5a43Oqz8vc1uB0na|treatment-facial-1-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680117,
+        "updated_at": 1607680117,
+        "data": {
+          "name": "treatment-facial-1-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_zkK6oLjNGlXn0Q",
+        "url": "https://cdn.chec.io/merchants/18708/assets/rlM86lIZtcLv5Mjb|treatment-facial-1-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680119,
+        "updated_at": 1607680119,
+        "data": {
+          "name": "treatment-facial-1-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_DWy4oGvNzw6Jx2",
+        "url": "https://cdn.chec.io/merchants/18708/assets/sYWAbuFR5ldDUb9W|treatment-facial-1-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680121,
+        "updated_at": 1607680121,
+        "data": {
+          "name": "treatment-facial-1-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_8XO3wpLN4wYAzQ",
+    "created": 1607679918,
+    "active": true,
+    "permalink": "xyLVq7",
+    "name": "Facial Treatment 2 (Intermediate)",
+    "description": "For a silky smooth finish, Facial Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/ewV8SHUyttnyg4D0|treatment-facial-2-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/xyLVq7?checkout=true",
+      "display": "https://checkout.chec.io/xyLVq7"
+    },
+    "last_updated": 1607679918,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_bWZ3l8ag4wkpEQ",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_zkK6oLDPKoXn0Q",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_DWy4oGDXj56Jx2",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_RyWOwm0AglnEa2",
+        "url": "https://cdn.chec.io/merchants/18708/assets/ewV8SHUyttnyg4D0|treatment-facial-2-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680123,
+        "updated_at": 1607680123,
+        "data": {
+          "name": "treatment-facial-2-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_ypbroEKN3l8n4e",
+        "url": "https://cdn.chec.io/merchants/18708/assets/qUtU43ltDNo1SCN0|treatment-facial-2-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680128,
+        "updated_at": 1607680128,
+        "data": {
+          "name": "treatment-facial-2-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_Kvg9l6QYR51bB7",
+        "url": "https://cdn.chec.io/merchants/18708/assets/QbMGQLs396PHpxWS|treatment-facial-2-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680134,
+        "updated_at": 1607680134,
+        "data": {
+          "name": "treatment-facial-2-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_bO6J5aegy5EjpK",
+    "created": 1607679919,
+    "active": true,
+    "permalink": "9pX3kO",
+    "name": "Facial Treatment 3 (Advanced)",
+    "description": "For a silky smooth finish, Facial Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/hNQuwnBibe95qZ2Q|treatment-facial-3-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/9pX3kO?checkout=true",
+      "display": "https://checkout.chec.io/9pX3kO"
+    },
+    "last_updated": 1607679919,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_QG375vkBNlrMOg",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_bWZ3l8mObwkpEQ",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_QG375vLZkwrMOg",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_NqKE50LRP5dgBL",
+        "url": "https://cdn.chec.io/merchants/18708/assets/hNQuwnBibe95qZ2Q|treatment-facial-3-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680137,
+        "updated_at": 1607680137,
+        "data": {
+          "name": "treatment-facial-3-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_kpnNwAENgwmXB3",
+        "url": "https://cdn.chec.io/merchants/18708/assets/uyXi9WdfBXLzZwHQ|treatment-facial-3-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680141,
+        "updated_at": 1607680141,
+        "data": {
+          "name": "treatment-facial-3-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_8XO3wpKrElYAzQ",
+        "url": "https://cdn.chec.io/merchants/18708/assets/DQBuyyZv9tTzSXou|treatment-facial-3-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680146,
+        "updated_at": 1607680146,
+        "data": {
+          "name": "treatment-facial-3-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_A12Jwr8NX5Pjnk",
+    "created": 1607679924,
+    "active": true,
+    "permalink": "eJNSQG",
+    "name": "Package Treatment 1",
+    "description": "For a silky smooth finish, Package Treatment 1 is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/ASw174uiMpA7kbYR|treatment-package-1-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/eJNSQG?checkout=true",
+      "display": "https://checkout.chec.io/eJNSQG"
+    },
+    "last_updated": 1607679924,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_0egY5e0P8o3QnA",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_0egY5ear953QnA",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_RqEv5x82d5Zz4j",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_bO6J5aQ4X5EjpK",
+        "url": "https://cdn.chec.io/merchants/18708/assets/ASw174uiMpA7kbYR|treatment-package-1-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680149,
+        "updated_at": 1607680149,
+        "data": {
+          "name": "treatment-package-1-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_A12JwrvKVwPjnk",
+        "url": "https://cdn.chec.io/merchants/18708/assets/HYCRYacBBsYQC7W0|treatment-package-1-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680150,
+        "updated_at": 1607680150,
+        "data": {
+          "name": "treatment-package-1-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_Op1YoVm44wXLv9",
+        "url": "https://cdn.chec.io/merchants/18708/assets/Xot1Q2pgpCqBxUfD|treatment-package-1-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680153,
+        "updated_at": 1607680153,
+        "data": {
+          "name": "treatment-package-1-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_Op1YoV0ndlXLv9",
+    "created": 1607679925,
+    "active": true,
+    "permalink": "FlcDJs",
+    "name": "Package Treatment 2",
+    "description": "For a silky smooth finish, Package Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/4QdPZV4e3Js4Gtvq|treatment-package-2-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/FlcDJs?checkout=true",
+      "display": "https://checkout.chec.io/FlcDJs"
+    },
+    "last_updated": 1607679925,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_RqEv5xnPqwZz4j",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_8XxzoBLVOlPQAZ",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_VKXmwD8LnwrgDA",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "assets": [
+      {
+        "id": "ast_4WJvlK14ZobYV1",
+        "url": "https://cdn.chec.io/merchants/18708/assets/4QdPZV4e3Js4Gtvq|treatment-package-2-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680156,
+        "updated_at": 1607680156,
+        "data": {
+          "name": "treatment-package-2-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_zkK6oLjNRlXn0Q",
+        "url": "https://cdn.chec.io/merchants/18708/assets/KeOemJCHWcEUoM8O|treatment-package-2-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680157,
+        "updated_at": 1607680157,
+        "data": {
+          "name": "treatment-package-2-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_DWy4oGvNYw6Jx2",
+        "url": "https://cdn.chec.io/merchants/18708/assets/lQmwNfiYnGW02FJ5|treatment-package-2-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680160,
+        "updated_at": 1607680160,
+        "data": {
+          "name": "treatment-package-2-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  },
+  {
+    "id": "prod_4WJvlKXZxwbYV1",
+    "created": 1607679926,
+    "active": true,
+    "permalink": "u2YEUg",
+    "name": "Package Treatment 5",
+    "description": "For a silky smooth finish, Package Treatment is perfect.",
+    "price": {
+      "raw": 150,
+      "formatted": "150.00",
+      "formatted_with_symbol": "$150.00",
+      "formatted_with_code": "150.00 AUD"
+    },
+    "quantity": 0,
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/18708/assets/KMyvq7jBt4GUDHC3|treatment-package-3-body-oil-3.jpg"
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": null,
+      "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+      "is_active": true,
+      "is_free": false,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_quantity_limited": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "collects_fullname": false,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "free": false,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "quantity_limited": false,
+      "sold_out": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true,
+      "video": false,
+      "rich_embed": false
+    },
+    "collects": {
+      "fullname": false,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/u2YEUg?checkout=true",
+      "display": "https://checkout.chec.io/u2YEUg"
+    },
+    "last_updated": 1607681706,
+    "extrafields": [],
+    "variants": [
+      {
+        "id": "vrnt_8XxzoBzZnoPQAZ",
+        "name": "Duration",
+        "options": [
+          {
+            "id": "optn_LvJjoPOQRwe0nO",
+            "name": "30 mins",
+            "price": {
+              "raw": 150,
+              "formatted": "150.00",
+              "formatted_with_symbol": "$150.00",
+              "formatted_with_code": "150.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_eN1ql9Ebzlz3ym",
+            "name": "1 hour",
+            "price": {
+              "raw": 300,
+              "formatted": "300.00",
+              "formatted_with_symbol": "$300.00",
+              "formatted_with_code": "300.00 AUD"
+            },
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": "cat_G6kVw73Gdw2eDx",
+        "slug": "treatments-package",
+        "name": "Package Treatments"
+      }
+    ],
+    "assets": [
+      {
+        "id": "ast_bWZ3l82NGokpEQ",
+        "url": "https://cdn.chec.io/merchants/18708/assets/KMyvq7jBt4GUDHC3|treatment-package-3-body-oil-3.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3597
+        },
+        "meta": [],
+        "created_at": 1607680166,
+        "updated_at": 1607680166,
+        "data": {
+          "name": "treatment-package-3-body-oil-3.jpg",
+          "ext": "jpg",
+          "size": 351670
+        }
+      },
+      {
+        "id": "ast_QG375v1vporMOg",
+        "url": "https://cdn.chec.io/merchants/18708/assets/iTPJodaJQoIgqilK|treatment-package-3-body-oil-2.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680174,
+        "updated_at": 1607680174,
+        "data": {
+          "name": "treatment-package-3-body-oil-2.jpg",
+          "ext": "jpg",
+          "size": 385701
+        }
+      },
+      {
+        "id": "ast_0egY5eN4gl3QnA",
+        "url": "https://cdn.chec.io/merchants/18708/assets/rRcCVHVbDXBs5B79|treatment-package-3-body-oil.jpg",
+        "is_image": true,
+        "image_dimensions": {
+          "width": 2400,
+          "height": 3596
+        },
+        "meta": [],
+        "created_at": 1607680178,
+        "updated_at": 1607680178,
+        "data": {
+          "name": "treatment-package-3-body-oil.jpg",
+          "ext": "jpg",
+          "size": 472622
+        }
+      }
+    ],
+    "statistics": {
+      "orders": 0,
+      "sales": {
+        "raw": 0,
+        "formatted": "0.00",
+        "formatted_with_symbol": "$0.00",
+        "formatted_with_code": "0.00 AUD"
+      }
+    },
+    "related_products": []
+  }
+]

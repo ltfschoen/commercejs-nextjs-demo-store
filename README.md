@@ -2,13 +2,48 @@
 
 ## Quickstart
 
+[OPTIONAL] Backup data on chec.io (modifications to categories and products based upon seed data).
+Save backup data into ./seeds/ folder (e.g. backup_categories_chec.json, backup_products_chec.json)
 ```
-node ./scripts/commerceJsApi.js
+node ./scripts/backupAllProductsCommerceJsApi.js
+node ./scripts/backupAllCategoriesCommerceJsApi.js
+```
+
+Delete data on chec.io, if corrupted (modifications to categories and products seed data)
+```
+node ./scripts/deleteAllProductsCommerceJsApi.js
+node ./scripts/deleteAllCategoriesCommerceJsApi.js
+```
+
+Verify that data was deleted on chec.io, run the script again if duplicates remain
+
+Update to latest NPM versions of chec.io in package.json file (e.g. "@chec/commerce.js": "2.3.0-beta2", )
+
+Install dependencies
+```
 yarn
+```
+
+Update content of products and categories (if necessary) (e.g. ./seeds/categories.json, ./seeds/categories.json, ./seeds/assets.json, ./lib/collections.js)
+
+Associate products with categories using chec.io API docs (e.g. https://commercejs.com/docs/api/#list-all-products `category_slug`). Find the category IDs to associate with each product by going to https://dashboard.chec.io/categories/, clicking "Edit", and then copying the `cat_xxxxxxx` in the URL
+
+Upload data to chec.io (new seed data or backup data from chec.io). Copy across backup of chec.io data (e.g. ./seeds/backup_categories_chec.json) if necessary to restore instead of use original seed data. 
+```
 yarn seed
+```
+
+Modify chec.io data (e.g. associate categories with each product so they are listed on the products page of the website for each product at https://dashboard.chec.io/products). 
+
+Compile code
+```
 yarn build
+```
+
+Run server
+```
 yarn dev
-``` 
+```
 
 ## Custom Changes
 

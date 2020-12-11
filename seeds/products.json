@@ -1,67 +1,166 @@
 [
   {
     "product": {
-      "name": "Face & Body Roller",
-      "description": "Enrich your morning and evening beauty ritual and to help reduce the appearance of puffiness and wrinkles",
-      "price": "18.00",
-      "category_id": "categories[2].id"
+      "name": "Eyebrow Wax",
+      "description": "",
+      "price": "15.00"
     },
-    "variant": [
+    "categories": [
       {
-        "name": "Size",
-        "options": [
-          {
-            "description": "200ml",
-            "price": "0.00"
-          },
-          {
-            "description": "500ml",
-            "price": "34.00"
-          }
-        ]
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
       }
     ]
   },
   {
     "product": {
-      "name": "Cure Scrub Kit",
-      "description": "Cleanse and rejuvenate your skin with bamboo bristle scrubbing brushes.",
-      "price": "51.00",
-      "category_id": "categories[2].id"
+      "name": "Eyebrow Tint",
+      "description": "",
+      "price": "12.00"
     },
-    "variant": [
+    "categories": [
       {
-        "name": "Size",
-        "options": [
-          {
-            "description": "100ml kit",
-            "price": "0.00"
-          },
-          {
-            "description": "500ml kit",
-            "price": "100.00"
-          }
-        ]
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
       }
     ]
   },
   {
     "product": {
-      "name": "Molecule Body Oil",
-      "description": "For a silky smooth finish, the Molecule Body Oil is a perfect addition for your post shower treatment.",
-      "price": "23.00",
-      "category_id": "categories[2].id"
+      "name": "Eyelash Tint",
+      "description": "",
+      "price": "15.00"
     },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Eyelash Tint, Eyebrow Tint & Wax",
+      "description": "",
+      "price": "40.00"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Eyelash Lift & Tint",
+      "description": "",
+      "price": "70.00"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Eyelash Lift",
+      "description": "",
+      "price": "60.00"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Lip Wax",
+      "description": "",
+      "price": "10.00"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Chin Wax",
+      "description": "",
+      "price": "10.00 (min. cost)"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Sides of Face Wax",
+      "description": "",
+      "price": "15.00 (min. cost)"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Full Face Wax",
+      "description": "",
+      "price": "40.00"
+    },
+    "categories": [
+      {
+        "id": "cat_kpnNwAyZkwmXB3",
+        "slug": "treatments-facial",
+        "name": "Facial Treatments"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Legs Wax",
+      "description": "Waxing treatment of a leg region include after wax treatment and hot towelling"
+    },
+    "categories": [
+      {
+        "id": "cat_8XO3wpWg4lYAzQ",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Service",
         "options": [
           {
-            "description": "100ml",
-            "price": "0.00"
+            "description": "1/2 Legs",
+            "price": "30.00"
           },
           {
-            "description": "500ml",
+            "description": "Full Legs",
             "price": "40.00"
           }
         ]
@@ -70,22 +169,31 @@
   },
   {
     "product": {
-      "name": "Hair Beauty Bath",
-      "description": "Made for your hair, a bath foam that brings your hair back to life.",
-      "price": "25.00",
-      "category_id": "categories[1].id"
+      "name": "Arms Wax",
+      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling"
     },
+    "categories": [
+      {
+        "id": "cat_8XO3wpWg4lYAzQ",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Service",
         "options": [
           {
-            "description": "100ml",
-            "price": "0.00"
+            "description": "Half Arm",
+            "price": "30.00"
           },
           {
-            "description": "300ml",
-            "price": "18.00"
+            "description": "Full Arm",
+            "price": "40.00"
+          },
+          {
+            "description": "Underarms",
+            "price": "15.00"
           }
         ]
       }
@@ -93,22 +201,35 @@
   },
   {
     "product": {
-      "name": "Shampoo & Conditioner Set",
-      "description": "Weightless, color safe, and cleansing Verb Ghost shampoo and conditioner set.",
-      "price": "65.00",
-      "category_id": "categories[1].id"
+      "name": "Bikini Wax",
+      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling"
     },
+    "categories": [
+      {
+        "id": "cat_8XO3wpWg4lYAzQ",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Service",
         "options": [
           {
-            "description": "500ml kit",
-            "price": "0.00"
+            "description": "Bikini",
+            "price": "20.00"
           },
           {
-            "description": "750ml kit",
-            "price": "25.00"
+            "description": "High Bikini",
+            "price": "30.00"
+          },
+          {
+            "description": "G-String Bikini",
+            "price": "40.00"
+          },
+          {
+            "description": "Brazilian",
+            "price": "50.00"
           }
         ]
       }
@@ -116,22 +237,23 @@
   },
   {
     "product": {
-      "name": "Rose Hair & Body Oil",
-      "description": "A multitasking oil for hair and body that’s perfect for those on the go.",
-      "price": "38.00",
-      "category_id": "categories[1].id"
+      "name": "Stomach Wax",
+      "description": "Waxing treatment of the stomach region include after wax treatment and hot towelling"
     },
+    "categories": [
+      {
+        "id": "cat_8XO3wpWg4lYAzQ",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Service",
         "options": [
           {
-            "description": "50ml",
-            "price": "0.00"
-          },
-          {
-            "description": "75ml",
-            "price": "60.00"
+            "description": "Stomach",
+            "price": "15.00 (min. fee)"
           }
         ]
       }
@@ -139,22 +261,27 @@
   },
   {
     "product": {
-      "name": "Lip Fantastic",
-      "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
-      "price": "24.00",
-      "category_id": "categories[0].id"
+      "name": "Combo Wax",
+      "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling"
     },
+    "categories": [
+      {
+        "id": "cat_8XO3wpWg4lYAzQ",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Service",
         "options": [
           {
-            "description": "30ml",
-            "price": "0.00"
+            "description": "1/2 Legs + Bikini",
+            "price": "40.00"
           },
           {
-            "description": "50ml",
-            "price": "35.00"
+            "description": "Full Legs + Bikini",
+            "price": "50.00"
           }
         ]
       }
@@ -162,22 +289,23 @@
   },
   {
     "product": {
-      "name": "Complexion Cream",
-      "description": "Anti-aging complexion cream for medium to dry skin. Nourish your face with a natural vitamin burst for that perfectly balanced glow.",
-      "price": "32.00",
-      "category_id": "categories[0].id"
+      "name": "Full Body Aromatherapy Massage",
+      "description": "Essential oils are blended according to your needs, to help relieve tension and assist in relaxation."
     },
+    "categories": [
+      {
+        "id": "cat_bO6J5apvyoEjpK",
+        "slug": "treatments-body-massage",
+        "name": "Body Treatment (Massage)"
+      }
+    ],
     "variant": [
       {
-        "name": "Size",
+        "name": "Duration",
         "options": [
           {
-            "description": "100ml",
-            "price": "0.00"
-          },
-          {
-            "description": "500ml",
-            "price": "57.00"
+            "description": "1 hour",
+            "price": "75.00"
           }
         ]
       }
@@ -185,45 +313,23 @@
   },
   {
     "product": {
-      "name": "Eye Purity Gels",
-      "description": "Treat your skin with active pore enzymes that replenish sun damaged skin.",
-      "price": "18.00",
-      "category_id": "categories[0].id"
+      "name": "Back Neck & Scalp Massage",
+      "description": "When you just want to unwind, helps relieve tension and assist in relaxation."
     },
-    "variant": [
+    "categories": [
       {
-        "name": "Size",
-        "options": [
-          {
-            "description": "100ml",
-            "price": "0.00"
-          },
-          {
-            "description": "500ml",
-            "price": "32.00"
-          }
-        ]
+        "id": "cat_bO6J5apvyoEjpK",
+        "slug": "treatments-body-massage",
+        "name": "Body Treatment (Massage)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Body Treatment 1 (Tanning)",
-      "description": "For a silky smooth finish, Body Treatment 1 is perfect.",
-      "price": "150.00",
-      "category_id": "categories[3].id"
-    },
+    ],
     "variant": [
       {
         "name": "Duration",
         "options": [
           {
             "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
+            "price": "45.00"
           }
         ]
       }
@@ -231,22 +337,27 @@
   },
   {
     "product": {
-      "name": "Body Treatment 2 (Waxing)",
-      "description": "For a silky smooth finish, Body Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[3].id"
+      "name": "Hot Stone Massage",
+      "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity."
     },
+    "categories": [
+      {
+        "id": "cat_bO6J5apvyoEjpK",
+        "slug": "treatments-body-massage",
+        "name": "Body Treatment (Massage)"
+      }
+    ],
     "variant": [
       {
-        "name": "Duration",
+        "name": "Service & Duration",
         "options": [
           {
-            "description": "30 mins",
-            "price": "150.00"
+            "description": "Full Body (1 hour)",
+            "price": "99.00"
           },
           {
-            "description": "1 hour",
-            "price": "300.00"
+            "description": "Back (30 mins)",
+            "price": "55.00"
           }
         ]
       }
@@ -254,160 +365,27 @@
   },
   {
     "product": {
-      "name": "Body Treatment 3 (Massage)",
-      "description": "For a silky smooth finish, Body Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[3].id"
+      "name": "Spray Tanning",
+      "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature."
     },
-    "variant": [
+    "categories": [
       {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
+        "id": "cat_A12JwregXlPjnk",
+        "slug": "treatments-body-spray-tan",
+        "name": "Body Treatment (Spray Tan)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Facial Treatment 1",
-      "description": "For a silky smooth finish, Facial Treatment 1 is perfect.",
-      "price": "150.00",
-      "category_id": "categories[4].id"
-    },
+    ],
     "variant": [
       {
-        "name": "Duration",
+        "name": "Service & Frequency",
         "options": [
           {
-            "description": "30 mins",
-            "price": "150.00"
+            "description": "Spray Tan",
+            "price": "40.00"
           },
           {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Facial Treatment 2 (Intermediate)",
-      "description": "For a silky smooth finish, Facial Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[4].id"
-    },
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Facial Treatment 3 (Advanced)",
-      "description": "For a silky smooth finish, Facial Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[4].id"
-    },
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Package Treatment 1",
-      "description": "For a silky smooth finish, Package Treatment 1 is perfect.",
-      "price": "150.00",
-      "category_id": "categories[5].id"
-    },
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Package Treatment 2",
-      "description": "For a silky smooth finish, Package Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[5].id"
-    },
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Package Treatment 5",
-      "description": "For a silky smooth finish, Package Treatment is perfect.",
-      "price": "150.00",
-      "category_id": "categories[5].id"
-    },
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "150.00"
-          },
-          {
-            "description": "1 hour",
-            "price": "300.00"
+            "description": "Weekly Spray Tans",
+            "price": "30.00"
           }
         ]
       }

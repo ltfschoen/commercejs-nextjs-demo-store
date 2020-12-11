@@ -6,6 +6,7 @@ class ProductRow extends Component {
   render() {
     const { products } = this.props;
     const reg = /(<([^>]+)>)/ig;
+    // console.log('products123: ', JSON.stringify(products, null, 2));
 
     return (
       <div className="row mb-5">
