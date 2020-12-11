@@ -1,26 +1,18 @@
 [
   {
-    "slug": "products-facial",
-    "name": "Facial Products"
-  },
-  {
-    "slug": "products-hair",
-    "name": "Hair Products"
-  },
-  {
-    "slug": "products-body",
-    "name": "Body Products"
-  },
-  {
-    "slug": "treatments-body",
-    "name": "Body Treatments"
-  },
-  {
     "slug": "treatments-facial",
     "name": "Facial Treatments"
   },
   {
-    "slug": "treatments-package",
-    "name": "Package Treatments"
+    "slug": "treatments-body-waxing",
+    "name": "Body Treatments (Waxing)"
+  },
+  {
+    "slug": "treatments-body-massage",
+    "name": "Body Treatments (Massage)"
+  },
+  {
+    "slug": "treatments-body-spray-tan",
+    "name": "Body Treatments (Spray Tan)"
   }
 ]

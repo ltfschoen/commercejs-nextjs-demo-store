@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cat_VPvL5z3g9lAQkX",
+    "slug": "treatments-facial",
+    "name": "Facial Treatments",
+    "description": null,
+    "created": 1607673677,
+    "meta": null
+  },
+  {
+    "id": "cat_nPEVlNQZL5a7dM",
+    "slug": "treatments-package",
+    "name": "Package Treatments",
+    "description": null,
+    "created": 1607673677,
+    "meta": null
+  },
+  {
+    "id": "cat_yA6nldmBLwEWbz",
+    "slug": "treatments-body",
+    "name": "Body Treatments",
+    "description": null,
+    "created": 1607673676,
+    "meta": null
+  },
+  {
+    "id": "cat_4OANwRGMxovYL8",
+    "slug": "products-body",
+    "name": "Body Products",
+    "description": null,
+    "created": 1607673675,
+    "meta": null
+  },
+  {
+    "id": "cat_kd6Ll2QaJ5V2mj",
+    "slug": "products-hair",
+    "name": "Hair Products",
+    "description": null,
+    "created": 1607673674,
+    "meta": null
+  },
+  {
+    "id": "cat_0YnEoqPgWwe7P6",
+    "slug": "products-facial",
+    "name": "Facial Products",
+    "description": null,
+    "created": 1607673673,
+    "meta": null
+  }
+]
