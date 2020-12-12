@@ -180,10 +180,17 @@ class Header extends Component {
               style={{
                 ...defaultStyle,
                 ...transitionStyles[state],
+                // Prevent gap being shown at bottom of mobile menu
                 top: '1em'
               }}
             >
-              <div className="position-absolute top-0 left-0 right-0 h-100vh mobile-menu-inner bg-black700 d-flex flex-column justify-content-center">
+              <div
+                className="position-absolute top-0 left-0 right-0 h-100vh mobile-menu-inner bg-black700 d-flex flex-column justify-content-center"
+                style={{
+                  // Prevent mobile menu items (e.g. Home) being hidden behind navbar on small screen heights (e.g. iPhone4 landscape of 320px height)
+                  top: '4em'
+                }}
+              >
                 {mobileMenuLinks.map((item, i) => (
                   <a
                     key={i}
