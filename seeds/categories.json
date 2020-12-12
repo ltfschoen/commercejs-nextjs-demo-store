@@ -1,7 +1,11 @@
 [
   {
-    "slug": "treatments-facial",
-    "name": "Facial Treatments"
+    "slug": "treatments-facial-wax-tint",
+    "name": "Facial Treatments (Wax & Tint)"
+  },
+  {
+    "slug": "treatments-facial-therapy",
+    "name": "Facial Treatments (Therapy)"
   },
   {
     "slug": "treatments-body-waxing",
