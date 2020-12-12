@@ -58,7 +58,7 @@ const Footer = () => (
                 Twitter
               </a>
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/otani_skintherapy/"
                 className="d-block font-color-medium"
                 target="_blank"
               >
