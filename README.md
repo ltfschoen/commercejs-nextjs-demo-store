@@ -86,6 +86,8 @@ heroku logs --tail
 heroku restart
 ```
 
+https://dev.to/mariesta/deploy-your-next-js-app-to-heroku-in-5-minutes-ldn
+
 ## Intro
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/157bb2e2-611e-4bbd-9a59-c876f8c3c58a/deploy-status)](https://app.netlify.com/sites/commercejs-demo-store/deploys)
