@@ -7,9 +7,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -21,9 +21,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -35,9 +35,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -49,9 +49,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -63,9 +63,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -77,9 +77,9 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -91,37 +91,37 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
   {
     "product": {
       "name": "Chin Wax",
-      "description": "",
-      "price": "10.00 (min. cost)"
+      "description": "(min. cost shown)",
+      "price": "10.00"
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
   {
     "product": {
       "name": "Sides of Face Wax",
-      "description": "",
-      "price": "15.00 (min. cost)"
+      "description": "(min. cost shown)",
+      "price": "15.00"
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
@@ -133,261 +133,443 @@
     },
     "categories": [
       {
-        "id": "cat_kpnNwAyZkwmXB3",
-        "slug": "treatments-facial",
-        "name": "Facial Treatments"
+        "id": "cat_G6kVw73gdw2eDx",
+        "slug": "treatments-facial-wax-tint",
+        "name": "Facial Treatments (Wax & Tint)"
       }
     ]
   },
   {
     "product": {
-      "name": "Legs Wax",
-      "description": "Waxing treatment of a leg region include after wax treatment and hot towelling"
+      "name": "Otani GLOW Facial",
+      "description": "Otani GLOW is an ultimate facial focusing on skin vitality, hydration and relaxation. Including Deep cleansing, enzyme exfoliation and LED treatment with an ultrasonic multivitamin and peptide infusion and heavenly aromatherapy massage finished with Hydro Jelly mask. This is an ultimate Facial for all. (All skin Types).",
+      "price": "99.00"
     },
     "categories": [
       {
-        "id": "cat_8XO3wpWg4lYAzQ",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
-      }
-    ],
-    "variant": [
-      {
-        "name": "Service",
-        "options": [
-          {
-            "description": "1/2 Legs",
-            "price": "30.00"
-          },
-          {
-            "description": "Full Legs",
-            "price": "40.00"
-          }
-        ]
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
       }
     ]
   },
   {
     "product": {
-      "name": "Arms Wax",
-      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling"
+      "name": "Otani Purifying Treatment",
+      "description": "The Purifying facial is focused on clearing active breakouts and congestion as well as destroying acne causing bacteria. The unique multi step process uses different modalities such as LED treatment and High frequency as well as advanced cosmeceuticals to get results fast. (Congested, Problematic skin types)",
+      "price": "90.00"
     },
     "categories": [
       {
-        "id": "cat_8XO3wpWg4lYAzQ",
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Otani Teen Facial",
+      "description": "Focused on Deep cleaning and clearing of congestion and acne causing bacteria. Soothing mask and massage is also included in this treatment. Your Teen will leave with comprehensive knowledge of their skin and how to look after it simply and easily at home.",
+      "price": "60.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "OxyGeneo 3in1 Facial",
+      "description": "The OxyGeneo treatment is an innovative facial that delivers 3 skin renewing anti-aging treatments simultaneously: exfoliation, infusion and oxygenation. This exclusive combination improves skin tone, evens texture and nourishes the complexion giving a balanced healthy glow. Includes blissful aromatherapy massage and customised mask, serum and moisturiser application. (All skin types).",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Express Microdermabrasion",
+      "description": "A very effective anti-aging resurfacing treatment that smoothes coarse textured skin and softens fine lines and wrinkles. The gentle resurfacing also helps with scarring gentle resurfacing scarring and superficial hyper-pigmentation (age spots).",
+      "price": "60.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Otani UltraDiamond",
+      "description": "The most indulgent Microdermabrasion treatment you will ever experience. With all the benefits of microdermabrasion such as smoothing coarse textured skin and softening fine lines and wrinkles, scarring and hyper-pigmentation. This facial is set apart with the luxurious aromatherapy massage and Icy globes massage to soothe and calm the skin as well as minimise pore size. LED is used to regulate natural oil production whilst stimulating collagen and elastin and minimising redness and wrinkles. Finished with Rose Quartz GuaSha massage it cant be beat. (All skin types).",
+      "price": "120.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Dermaplaning Facial",
+      "description": "Dermaplaning is a form of exfoliation where an aesthetician grade, sterile blade is stroked along the skin at an angle to gently “shave off” dead skin cells and peach fuzz from the epidermis. Pineapple and Papaya enzyme Gel is then massaged into the skin to smooth out any remaining unevenness and brighten skin. Collagen and Hyaluronic sheet mask is then applied to deeply hydrate and plump skin cells. Finished with LED treatment regulating natural oil production, stimulating collagen and elastin and minimising redness and wrinkles. Dermaplaning allows for better penetration of treatment products. Suitable in the treatment of, Fine lines and wrinkles, uneven skin tone, couperose (tiny vessels near the surface of the skin) and congested pores.",
+      "price": "120.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Thermal Detox Facial",
+      "description": "The new Thermal Detox Facial from Nimue is a 4-in-1 treatment that deeply cleanses the skin surface and pores, Detoxifies, Oxygenates and Exfoliates with pumpkin enzymes and AHA’s to dissolve the 'glue' between skin cells, allowing them to slough off. This treatment refines pore size, softens fine lines, softens skin texture and improves overall radiance. Many say they've never experienced a treatment like it before, its thermal charcoal properties deliver a soothing warming sensation.",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Collagen Induction Therapy (Dermapen)",
+      "description": "(min. cost shown, max. cost 150) The Dermapen treatments use a precise needling technique that results in increased collagen and elastin. You can expect smoother skin that looks refreshed, restored and youthful. Skin needling promotes scarless healing and natural collagen reproduction, similar to fractional laser treatments and laser resurfacing, but without the side effects and down time. Collagen Induction Therapy is one of the most advanced skin rejuvenation therapies available today for the treatment of: Fine lines and wrinkles, Scars (acne, surgical and burns), Large Pores, and Overall skin Rejuvenation.",
+      "price": "120.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Dermaenergy Berry Peel",
+      "description": "The Dermaenergy Berry Peel is a unique blend of 6 different berries - Blueberry, Raspberry, Strawberry, Maqui Berry, Cranberry, Bearberry. This indulgent and luxurious Peel delivers instantly softer skin. Rejuvenating, Energising and Brightening. (Suitable for All skin types and Pigmented skin).",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Dermaenergy Enzyme Peel",
+      "description": "Fruit enzymes of Mango, Pineapple, Papaya, Pomegranate, Starfruit, Passionfruit and Kiwi. This indulgent and luxurious Peel delivers instantly softer skin. Rejuvenating, Energising and Brightening. (Suitable for All skin types and Pigmented skin).",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Pumpkin Peel",
+      "description": "Pumpkin Peel is an effective exfoliator derived from pumpkin. Pumpkin proteolytic enzymes help to digest proteins that have accumulated on the skin's surface. Enhance cellular renewal through exfoliation for a smooth, even skin texture. Skin will instantly feel softer, refined and energised. Acne will be cleared quickly. Skin refined and instantly dewy. (All skin types, acne / pigment).",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Fusion Peel",
+      "description": "A multi-acid and multi-enzyme peeling solution suitable for all skin types and issues. Minimal irritation, almost no downtime, and fabulous corrective action. An amazing Fusion of exfoliating agents that produce a number of skin benefits, such as clearing acne, reducing age spots, melasma, and improving skin texture and fine lines and wrinkles.",
+      "price": "99.00"
+    },
+    "categories": [
+      {
+        "id": "cat_O3bR5XBjMwnzdj",
+        "slug": "treatments-facial-therapy",
+        "name": "Facial Treatments (Therapy)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "1/2 Legs Wax",
+      "description": "Waxing treatment of a leg region include after wax treatment and hot towelling",
+      "price": "30.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ],
-    "variant": [
+    ]
+  },
+  {
+    "product": {
+      "name": "Full Legs Wax",
+      "description": "Waxing treatment of a leg region include after wax treatment and hot towelling",
+      "price": "40.00"
+    },
+    "categories": [
       {
-        "name": "Service",
-        "options": [
-          {
-            "description": "Half Arm",
-            "price": "30.00"
-          },
-          {
-            "description": "Full Arm",
-            "price": "40.00"
-          },
-          {
-            "description": "Underarms",
-            "price": "15.00"
-          }
-        ]
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Half Arms Wax",
+      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
+      "price": "30.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Full Arms Wax",
+      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
+      "price": "40.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Underarms Wax",
+      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
+      "price": "15.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
       }
     ]
   },
   {
     "product": {
       "name": "Bikini Wax",
-      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling"
+      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
+      "price": "20.00"
     },
     "categories": [
       {
-        "id": "cat_8XO3wpWg4lYAzQ",
+        "id": "cat_31q0o3LD15DdjR",
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ],
-    "variant": [
+    ]
+  },
+  {
+    "product": {
+      "name": "High Bikini Wax",
+      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
+      "price": "30.00"
+    },
+    "categories": [
       {
-        "name": "Service",
-        "options": [
-          {
-            "description": "Bikini",
-            "price": "20.00"
-          },
-          {
-            "description": "High Bikini",
-            "price": "30.00"
-          },
-          {
-            "description": "G-String Bikini",
-            "price": "40.00"
-          },
-          {
-            "description": "Brazilian",
-            "price": "50.00"
-          }
-        ]
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "G-String Bikini Wax",
+      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
+      "price": "40.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "Brazilian Wax",
+      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
+      "price": "50.00"
+    },
+    "categories": [
+      {
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
       }
     ]
   },
   {
     "product": {
       "name": "Stomach Wax",
-      "description": "Waxing treatment of the stomach region include after wax treatment and hot towelling"
+      "description": "(min. cost shown) Waxing treatment of the stomach region include after wax treatment and hot towelling",
+      "price": "15.00"
     },
     "categories": [
       {
-        "id": "cat_8XO3wpWg4lYAzQ",
+        "id": "cat_31q0o3LD15DdjR",
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ],
-    "variant": [
-      {
-        "name": "Service",
-        "options": [
-          {
-            "description": "Stomach",
-            "price": "15.00 (min. fee)"
-          }
-        ]
-      }
     ]
   },
   {
     "product": {
-      "name": "Combo Wax",
-      "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling"
+      "name": "Combo Wax (1/2 Legs + Bikini)",
+      "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling",
+      "price": "40.00"
     },
     "categories": [
       {
-        "id": "cat_8XO3wpWg4lYAzQ",
+        "id": "cat_31q0o3LD15DdjR",
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ],
-    "variant": [
+    ]
+  },
+  {
+    "product": {
+      "name": "Combo Wax (Full Legs + Bikini)",
+      "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling",
+      "price": "50.00"
+    },
+    "categories": [
       {
-        "name": "Service",
-        "options": [
-          {
-            "description": "1/2 Legs + Bikini",
-            "price": "40.00"
-          },
-          {
-            "description": "Full Legs + Bikini",
-            "price": "50.00"
-          }
-        ]
+        "id": "cat_31q0o3LD15DdjR",
+        "slug": "treatments-body-waxing",
+        "name": "Body Treatment (Waxing)"
       }
     ]
   },
   {
     "product": {
-      "name": "Full Body Aromatherapy Massage",
-      "description": "Essential oils are blended according to your needs, to help relieve tension and assist in relaxation."
+      "name": "Full Body Aromatherapy Massage (1 hour)",
+      "description": "Essential oils are blended according to your needs, to help relieve tension and assist in relaxation.",
+      "price": "75.00"
     },
     "categories": [
       {
-        "id": "cat_bO6J5apvyoEjpK",
+        "id": "cat_p6dP5g0XWln7kA",
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
-    ],
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "1 hour",
-            "price": "75.00"
-          }
-        ]
-      }
     ]
   },
   {
     "product": {
-      "name": "Back Neck & Scalp Massage",
-      "description": "When you just want to unwind, helps relieve tension and assist in relaxation."
+      "name": "Back Neck & Scalp Massage - (30 mins)",
+      "description": "When you just want to unwind, helps relieve tension and assist in relaxation.",
+      "price": "45.00"
     },
     "categories": [
       {
-        "id": "cat_bO6J5apvyoEjpK",
+        "id": "cat_p6dP5g0XWln7kA",
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
-    ],
-    "variant": [
-      {
-        "name": "Duration",
-        "options": [
-          {
-            "description": "30 mins",
-            "price": "45.00"
-          }
-        ]
-      }
     ]
   },
   {
     "product": {
-      "name": "Hot Stone Massage",
-      "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity."
+      "name": "Hot Stone Massage - Full Body (1 hour)",
+      "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity.",
+      "price": "99.00"
     },
     "categories": [
       {
-        "id": "cat_bO6J5apvyoEjpK",
+        "id": "cat_p6dP5g0XWln7kA",
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
-    ],
-    "variant": [
+    ]
+  },
+  {
+    "product": {
+      "name": "Hot Stone Massage - Back (30 mins)",
+      "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity.",
+      "price": "55.00"
+    },
+    "categories": [
       {
-        "name": "Service & Duration",
-        "options": [
-          {
-            "description": "Full Body (1 hour)",
-            "price": "99.00"
-          },
-          {
-            "description": "Back (30 mins)",
-            "price": "55.00"
-          }
-        ]
+        "id": "cat_p6dP5g0XWln7kA",
+        "slug": "treatments-body-massage",
+        "name": "Body Treatment (Massage)"
       }
     ]
   },
   {
     "product": {
-      "name": "Spray Tanning",
-      "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature."
+      "name": "Spray Tan - Single",
+      "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature.",
+      "price": "40.00"
     },
     "categories": [
       {
-        "id": "cat_A12JwregXlPjnk",
+        "id": "cat_AYrQlWXOJwnbR4",
         "slug": "treatments-body-spray-tan",
         "name": "Body Treatment (Spray Tan)"
       }
-    ],
-    "variant": [
+    ]
+  },
+  {
+    "product": {
+      "name": "Spray Tan - Weekly",
+      "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature.",
+      "price": "50.00"
+    },
+    "categories": [
       {
-        "name": "Service & Frequency",
-        "options": [
-          {
-            "description": "Spray Tan",
-            "price": "40.00"
-          },
-          {
-            "description": "Weekly Spray Tans",
-            "price": "30.00"
-          }
-        ]
+        "id": "cat_AYrQlWXOJwnbR4",
+        "slug": "treatments-body-spray-tan",
+        "name": "Body Treatment (Spray Tan)"
       }
     ]
   }

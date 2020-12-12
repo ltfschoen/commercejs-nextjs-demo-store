@@ -36,6 +36,7 @@ class MyApp extends App {
     // products.forEach(product => {
     //   console.log('product categories: ', JSON.stringify(product.categories));
     // });
+    // console.log('categories', categories);
 
     // Allows store to be updated via the dispatch action
     ctx.store.dispatch({ type: 'STORE_CATEGORIES', payload: categories });

@@ -1,5 +1,16 @@
 # Demo Store with Commerce.js and Next.js 🛍️💳
 
+## Issues
+
+* [ ] https://github.com/chec/commercejs-nextjs-demo-store/issues/168
+  * If not resolved, then just manually replace category associations in product.json after uploading seed of the categories.json
+* [ ] https://github.com/chec/commercejs-nextjs-demo-store/issues/169
+  * If not resolved, then just keep using separate products instead of using variant.
+  * Temporarily stored approach used with variant in ./seeds/temp/products_with_variant_issue.json
+* [ ] Fix prices on product list so they do not include ranges or text and may be processed
+  * If the price isn't valid it doesn't render the product on the page!
+* [ ] Retrieving products using API is missing products from 3 out of 5 of my categories (i.e. missing ones are: treatments-body-waxing, treatments-body-massage, treatments-body-spray-tan)
+
 ## Quickstart
 
 [OPTIONAL] Backup data on chec.io (modifications to categories and products based upon seed data).
@@ -11,6 +22,7 @@ node ./scripts/backupAllCategoriesCommerceJsApi.js
 
 Delete data on chec.io, if corrupted (modifications to categories and products seed data)
 ```
+node ./scripts/deleteAllAssetsCommerceJsApi.js
 node ./scripts/deleteAllProductsCommerceJsApi.js
 node ./scripts/deleteAllCategoriesCommerceJsApi.js
 ```
@@ -26,7 +38,8 @@ yarn
 
 Update content of products and categories (if necessary) (e.g. ./seeds/categories.json, ./seeds/categories.json, ./seeds/assets.json, ./lib/collections.js)
 
-Associate products with categories using chec.io API docs (e.g. https://commercejs.com/docs/api/#list-all-products `category_slug`). Find the category IDs to associate with each product by going to https://dashboard.chec.io/categories/, clicking "Edit", and then copying the `cat_xxxxxxx` in the URL
+Associate products with categories using chec.io API docs (e.g. https://commercejs.com/docs/api/#list-all-products `category_slug`). Find the category IDs to associate with each product by going to https://dashboard.chec.io/categories/, clicking "Edit", and then copying the `cat_xxxxxxx` in the URL.
+After uploading the categories.json via seeds, go to https://dashboard.chec.io/categories/ and get each category ID, and replace the old category ID with the new category ID, then after removing the previously uploaded assets/products multiple times by running script until all gone (except categories), seed it all again (otherwise if invalid categories, you'll get error `Response code 404 (Not Found)`)
 
 Upload data to chec.io (new seed data or backup data from chec.io). Copy across backup of chec.io data (e.g. ./seeds/backup_categories_chec.json) if necessary to restore instead of use original seed data. 
 ```

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "ast_RqEv5xWyAoZz4j",
+    "url": "https://cdn.chec.io/merchants/18708/assets/2UyRielOuhksgb5a|hair-set.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3400
+    },
+    "meta": [],
+    "created_at": 1598772867,
+    "updated_at": 1605920806,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 438886
+    }
+  },
+  {
+    "id": "ast_8XxzoBDX6lPQAZ",
+    "url": "https://cdn.chec.io/merchants/18708/assets/2U4VqqWNUrTdZrXr|hair-oil-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3600
+    },
+    "meta": [],
+    "created_at": 1598772869,
+    "updated_at": 1605920806,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1359209
+    }
+  },
+  {
+    "id": "ast_VKXmwD9p7orgDA",
+    "url": "https://cdn.chec.io/merchants/18708/assets/5VXzFYZXwJqrKKB7|hair-oil-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3600
+    },
+    "meta": [],
+    "created_at": 1598772872,
+    "updated_at": 1605920803,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1427763
+    }
+  },
+  {
+    "id": "ast_LvJjoPEDn5e0nO",
+    "url": "https://cdn.chec.io/merchants/18708/assets/1cchOwdy61Wsbwoy|hair-oil.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3600
+    },
+    "meta": [],
+    "created_at": 1598772874,
+    "updated_at": 1605920802,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 348638
+    }
+  },
+  {
+    "id": "ast_eN1ql9VXdwz3ym",
+    "url": "https://cdn.chec.io/merchants/18708/assets/MpS9LkemoEjq81au|cream-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3825
+    },
+    "meta": [],
+    "created_at": 1598772877,
+    "updated_at": 1605920802,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1237374
+    }
+  },
+  {
+    "id": "ast_gnZO5kdaKl7MNq",
+    "url": "https://cdn.chec.io/merchants/18708/assets/D889L60W2TANrLXj|cream-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598772880,
+    "updated_at": 1605920801,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 333854
+    }
+  },
+  {
+    "id": "ast_7ZAMo1mPQoNJ4x",
+    "url": "https://cdn.chec.io/merchants/18708/assets/Zn4pYVbaPKNtW3MB|cream.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598772882,
+    "updated_at": 1605920800,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1141510
+    }
+  },
+  {
+    "id": "ast_r2LM5Q6xmlZV1g",
+    "url": "https://cdn.chec.io/merchants/18708/assets/iIRHNzFjjQx6qjCd|gel-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598772884,
+    "updated_at": 1605920799,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1015096
+    }
+  },
+  {
+    "id": "ast_NXELwjRpew3A4p",
+    "url": "https://cdn.chec.io/merchants/18708/assets/vaSq7NpmcJ9NikzW|gel-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598772889,
+    "updated_at": 1605920798,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1177258
+    }
+  },
+  {
+    "id": "ast_L1vOoZGZP5Ra8Z",
+    "url": "https://cdn.chec.io/merchants/18708/assets/gGX1Nwf6lTDxFhhR|gel.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598772891,
+    "updated_at": 1605920797,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1063841
+    }
+  },
+  {
+    "id": "ast_kpnNwABrNomXB3",
+    "url": "https://cdn.chec.io/merchants/18708/assets/BBiaLxDcroGd86nZ|roller-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598813957,
+    "updated_at": 1605920779,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1424347
+    }
+  },
+  {
+    "id": "ast_8XO3wpnPN5YAzQ",
+    "url": "https://cdn.chec.io/merchants/18708/assets/t4yEB67d387VZxu8|roller-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598813961,
+    "updated_at": 1605920778,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1443804
+    }
+  },
+  {
+    "id": "ast_bO6J5aP0PoEjpK",
+    "url": "https://cdn.chec.io/merchants/18708/assets/KpMKZitWpoxnkJlF|roller.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598813963,
+    "updated_at": 1605920776,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1349079
+    }
+  },
+  {
+    "id": "ast_A12Jwr4kd5Pjnk",
+    "url": "https://cdn.chec.io/merchants/18708/assets/VZaK07HAWXCbQBHM|scrub-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3600
+    },
+    "meta": [],
+    "created_at": 1598813966,
+    "updated_at": 1605920775,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 756673
+    }
+  },
+  {
+    "id": "ast_Op1YoVrdWoXLv9",
+    "url": "https://cdn.chec.io/merchants/18708/assets/PB9ToWEulJVLM2s4|scrub-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3601
+    },
+    "meta": [],
+    "created_at": 1598813968,
+    "updated_at": 1605920774,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 672306
+    }
+  },
+  {
+    "id": "ast_4WJvlK2DW5bYV1",
+    "url": "https://cdn.chec.io/merchants/18708/assets/K9rx3csovAEbFEvv|scrub.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 1600
+    },
+    "meta": [],
+    "created_at": 1598813971,
+    "updated_at": 1605920774,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 251238
+    }
+  },
+  {
+    "id": "ast_zkK6oLRPvlXn0Q",
+    "url": "https://cdn.chec.io/merchants/18708/assets/v7dxANeUemEsXCvU|body-oil-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3597
+    },
+    "meta": [],
+    "created_at": 1598813978,
+    "updated_at": 1605920773,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 351670
+    }
+  },
+  {
+    "id": "ast_DWy4oGQXpl6Jx2",
+    "url": "https://cdn.chec.io/merchants/18708/assets/Dy4dfe1LezQrw2zD|body-oil-2.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598813981,
+    "updated_at": 1605920773,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 385701
+    }
+  },
+  {
+    "id": "ast_RyWOwm3xx5nEa2",
+    "url": "https://cdn.chec.io/merchants/18708/assets/Cfp42KkOrw2XXyQu|body-oil.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3596
+    },
+    "meta": [],
+    "created_at": 1598813983,
+    "updated_at": 1605920770,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 472622
+    }
+  },
+  {
+    "id": "ast_ypbroEkGXl8n4e",
+    "url": "https://cdn.chec.io/merchants/18708/assets/gou0CD96and6b1ap|lips-3.jpg",
+    "is_image": true,
+    "image_dimensions": {
+      "width": 2400,
+      "height": 3597
+    },
+    "meta": [],
+    "created_at": 1598813986,
+    "updated_at": 1605920769,
+    "data": {
+      "name": "",
+      "ext": "jpeg",
+      "size": 1541041
+    }
+  }
+]
