@@ -67,6 +67,8 @@ yarn dev
 
 ## Deploy Heroku
 
+Run the seeding of data to Commerce.js prior to deploying to production.
+
 ```
 heroku login
 heroku apps:create otani-skin
