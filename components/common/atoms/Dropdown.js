@@ -8,19 +8,11 @@ class Dropdown extends Component {
     this.state = {
       isOpen: false
     };
-<<<<<<< HEAD
   }
 
   render() {
     const { isOpen } = this.state;
     const { children } = this.props;
-=======
-
-  }
-  render() {
-    const { isOpen } = this.state;
-    const { children, menu } = this.props;
->>>>>>> 192a219... Initial commit
 
     return (
       <div

@@ -27,6 +27,7 @@ class CheckoutPage extends Component {
   constructor(props) {
     super(props);
 
+    this.state = {
       deliveryCountry: 'AU',
       deliveryRegion: 'NSW',
 
