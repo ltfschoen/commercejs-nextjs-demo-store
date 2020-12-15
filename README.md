@@ -65,6 +65,28 @@ yarn dev
 * Note: Run `yarn build` to view console.logs
 * Build `yarn build` to view changes during development
 
+## Debugging
+
+If there are any issues uploading seed data, then you can show more detailed validation errors to detect specifically what may be wrong with your seed data. If you add dependency `"@chec/seeder": "chec/seeder#master",` instead of `"@chec/seeder": "^1.1.0",`, and then importantly changed https://github.com/chec/seeder/blob/master/index.js#L72 from `.catch(this.apiError);` to instead be the following for debugging, then errors in your seed data will be clearly shown in the logs when you run `yarn seed`
+
+```
+return this.post(`/v1/${endpoint}`, rest)
+  .then(response => {
+    // console.log('HTTP response object: ', response);
+    if (Object.hasOwnProperty.call(typeCounts, endpoint)) {
+      typeCounts[endpoint]++;
+    } else {
+      responses[endpoint] = [];
+      typeCounts[endpoint] = 1;
+    }
+    responses[endpoint].push(JSON.parse(response.body))
+  })
+  .catch(error => {
+    console.log('HTTP response error object: ', error);
+    this.apiError;
+  });
+```
+
 ## Deploy Heroku
 
 Run the seeding of data to Commerce.js prior to deploying to production.
