@@ -2,6 +2,7 @@
   {
     "slug": "treatments-facial-wax-tint",
     "name": "Facial Treatments (Wax & Tint)",
+    "description": "",
     "meta": {
       "image": "/images/collection/1.png"
     }
@@ -9,6 +10,7 @@
   {
     "slug": "treatments-facial-therapy",
     "name": "Facial Treatments (Therapy)",
+    "description": "",
     "meta": {
       "image": "/images/collection/1.png"
     }
@@ -16,6 +18,7 @@
   {
     "slug": "treatments-body-waxing",
     "name": "Body Treatments (Waxing)",
+    "description": "",
     "meta": {
       "image": "/images/collection/2.png"
     }
@@ -23,6 +26,7 @@
   {
     "slug": "treatments-body-massage",
     "name": "Body Treatments (Massage)",
+    "description": "",
     "meta": {
       "image": "/images/collection/2.png"
     }
@@ -30,6 +34,7 @@
   {
     "slug": "treatments-body-spray-tan",
     "name": "Body Treatments (Spray Tan)",
+    "description": "",
     "meta": {
       "image": "/images/collection/3.png"
     }

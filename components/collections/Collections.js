@@ -41,6 +41,16 @@ class Collections extends Component {
     window.requestAnimationFrame(animate);
   }
 
+  truncateDescription = (str, num) => {
+    if (num > str.length){
+      return str;
+    } else {
+      // Only keep the first 'num' characters
+      str = str.substring(0, num);
+      return str + "...";
+    }
+  }
+
   renderSidebar() {
     const { categories } = this.props;
 
@@ -121,7 +131,7 @@ class Collections extends Component {
                           {product.name}
                         </p>
                         <p className="mb-2 font-color-medium">
-                          {product.description.replace(reg, '')}
+                          {product.description && this.truncateDescription(product.description, 40).replace(reg, '')}
                         </p>
                         <p className="font-size-subheader font-weight-medium pb-2 borderbottom border-color-black">
                           {product.price.formatted_with_symbol}

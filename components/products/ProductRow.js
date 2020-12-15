@@ -3,6 +3,16 @@ import PropTypes from 'prop-types';
 import ProductCard from '../products/ProductCard';
 
 class ProductRow extends Component {
+  truncateDescription = (str, num) => {
+    if (num > str.length){
+      return str;
+    } else {
+      // Only keep the first 'num' characters
+      str = str.substring(0, num);
+      return str + "...";
+    }
+  }
+
   render() {
     const { products } = this.props;
     const reg = /(<([^>]+)>)/ig;
@@ -18,7 +28,11 @@ class ProductRow extends Component {
               image={media.source}
               name={name}
               price={price.formatted_with_symbol}
-              description={description && description.replace(reg, '')}
+              description={
+                description &&
+                this.truncateDescription(description, 40)
+                  .replace(reg, '')
+              }
             />
           </div>
         ))}
