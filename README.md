@@ -4,9 +4,6 @@
 
 * [ ] https://github.com/chec/commercejs-nextjs-demo-store/issues/168
   * If not resolved, then just manually replace category associations in product.json after uploading seed of the categories.json
-* [ ] https://github.com/chec/commercejs-nextjs-demo-store/issues/169
-  * If not resolved, then just keep using separate products instead of using variant.
-  * Temporarily stored approach used with variant in ./seeds/temp/products_with_variant_issue.json
 * [ ] Fix prices on product list so they do not include ranges or text and may be processed
   * If the price isn't valid it doesn't render the product on the page!
 * [ ] Retrieving products using API is missing products from 3 out of 5 of my categories (i.e. missing ones are: treatments-body-waxing, treatments-body-massage, treatments-body-spray-tan)
