@@ -84,10 +84,10 @@ class Collections extends Component {
 
     const cat = categories.find(category => category.slug === catSlug);
     if (!cat) {
-      console.log('cat123', category.slug, catSlug)
+      // console.log('category not found: ', category.slug, catSlug)
       return [];
     }
-    console.log('prod123', cat, products);
+    console.log('products of categories: ', cat, products);
     return products.filter(product => product.categories.find(productCategory => productCategory.id === cat.id));
   }
 
