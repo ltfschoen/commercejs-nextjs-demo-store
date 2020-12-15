@@ -1020,6 +1020,18 @@
     promise-queue "^2.2.5"
     yargs "^15.0.2"
 
+"@chec/seeder@chec/seeder#master":
+  version "1.1.0"
+  resolved "https://codeload.github.com/chec/seeder/tar.gz/84979ec5955e0bb3208e231a2e0f1c7a34397c05"
+  dependencies:
+    chalk "^3.0.0"
+    dotenv "^8.2.0"
+    got "^9.6.0"
+    lodash.get "^4.4.2"
+    ora "^4.0.3"
+    promise-queue "^2.2.5"
+    yargs "^15.0.2"
+
 "@csstools/convert-colors@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"

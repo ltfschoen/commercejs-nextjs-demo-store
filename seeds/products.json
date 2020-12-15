@@ -323,7 +323,7 @@
   },
   {
     "product": {
-      "name": "1/2 Legs Wax",
+      "name": "Legs Wax",
       "description": "Waxing treatment of a leg region include after wax treatment and hot towelling",
       "price": "30.00"
     },
@@ -333,25 +333,26 @@
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Full Legs Wax",
-      "description": "Waxing treatment of a leg region include after wax treatment and hot towelling",
-      "price": "40.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
+        "name": "Service",
+        "options": [
+          {
+            "description": "1/2 Legs",
+            "price": "30.00"
+          },
+          {
+            "description": "Full Legs",
+            "price": "40.00"
+          }
+        ]
       }
     ]
   },
   {
     "product": {
-      "name": "Half Arms Wax",
+      "name": "Arms Wax",
       "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
       "price": "30.00"
     },
@@ -361,33 +362,24 @@
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Full Arms Wax",
-      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
-      "price": "40.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Underarms Wax",
-      "description": "Waxing treatment of an arm region include after wax treatment and hot towelling",
-      "price": "15.00"
-    },
-    "categories": [
-      {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
+        "name": "Service",
+        "options": [
+          {
+            "description": "Half Arm",
+            "price": "30.00"
+          },
+          {
+            "description": "Full Arm",
+            "price": "40.00"
+          },
+          {
+            "description": "Underarms",
+            "price": "15.00"
+          }
+        ]
       }
     ]
   },
@@ -403,47 +395,28 @@
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "High Bikini Wax",
-      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
-      "price": "30.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "G-String Bikini Wax",
-      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
-      "price": "40.00"
-    },
-    "categories": [
-      {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
-      }
-    ]
-  },
-  {
-    "product": {
-      "name": "Brazilian Wax",
-      "description": "Waxing treatment of a bikini region include after wax treatment and hot towelling",
-      "price": "50.00"
-    },
-    "categories": [
-      {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
+        "name": "Service",
+        "options": [
+          {
+            "description": "Bikini",
+            "price": "20.00"
+          },
+          {
+            "description": "High Bikini",
+            "price": "30.00"
+          },
+          {
+            "description": "G-String Bikini",
+            "price": "40.00"
+          },
+          {
+            "description": "Brazilian",
+            "price": "50.00"
+          }
+        ]
       }
     ]
   },
@@ -459,11 +432,22 @@
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
+    ],
+    "variant": [
+      {
+        "name": "Service",
+        "options": [
+          {
+            "description": "Stomach",
+            "price": "15.00"
+          }
+        ]
+      }
     ]
   },
   {
     "product": {
-      "name": "Combo Wax (1/2 Legs + Bikini)",
+      "name": "Combo Wax",
       "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling",
       "price": "40.00"
     },
@@ -473,25 +457,26 @@
         "slug": "treatments-body-waxing",
         "name": "Body Treatment (Waxing)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Combo Wax (Full Legs + Bikini)",
-      "description": "Waxing treatment of multiple body regions include after wax treatment and hot towelling",
-      "price": "50.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_31q0o3LD15DdjR",
-        "slug": "treatments-body-waxing",
-        "name": "Body Treatment (Waxing)"
+        "name": "Service",
+        "options": [
+          {
+            "description": "1/2 Legs + Bikini",
+            "price": "40.00"
+          },
+          {
+            "description": "Full Legs + Bikini",
+            "price": "50.00"
+          }
+        ]
       }
     ]
   },
   {
     "product": {
-      "name": "Full Body Aromatherapy Massage (1 hour)",
+      "name": "Full Body Aromatherapy Massage",
       "description": "Essential oils are blended according to your needs, to help relieve tension and assist in relaxation.",
       "price": "75.00"
     },
@@ -501,11 +486,22 @@
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
+    ],
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "1 hour",
+            "price": "75.00"
+          }
+        ]
+      }
     ]
   },
   {
     "product": {
-      "name": "Back Neck & Scalp Massage - (30 mins)",
+      "name": "Back Neck & Scalp Massage",
       "description": "When you just want to unwind, helps relieve tension and assist in relaxation.",
       "price": "45.00"
     },
@@ -515,11 +511,22 @@
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
+    ],
+    "variant": [
+      {
+        "name": "Duration",
+        "options": [
+          {
+            "description": "30 mins",
+            "price": "45.00"
+          }
+        ]
+      }
     ]
   },
   {
     "product": {
-      "name": "Hot Stone Massage - Full Body (1 hour)",
+      "name": "Hot Stone Massage",
       "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity.",
       "price": "99.00"
     },
@@ -529,25 +536,26 @@
         "slug": "treatments-body-massage",
         "name": "Body Treatment (Massage)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Hot Stone Massage - Back (30 mins)",
-      "description": "Hot stone massage helps relieve muscle tension and pain as well as reduce stress and anxiety and boosting immunity.",
-      "price": "55.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_p6dP5g0XWln7kA",
-        "slug": "treatments-body-massage",
-        "name": "Body Treatment (Massage)"
+        "name": "Service & Duration",
+        "options": [
+          {
+            "description": "Full Body (1 hour)",
+            "price": "99.00"
+          },
+          {
+            "description": "Back (30 mins)",
+            "price": "55.00"
+          }
+        ]
       }
     ]
   },
   {
     "product": {
-      "name": "Spray Tan - Single",
+      "name": "Spray Tanning",
       "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature.",
       "price": "40.00"
     },
@@ -557,19 +565,20 @@
         "slug": "treatments-body-spray-tan",
         "name": "Body Treatment (Spray Tan)"
       }
-    ]
-  },
-  {
-    "product": {
-      "name": "Spray Tan - Weekly",
-      "description": "Organic spray tan solution delivers stunning golden bronze tones! Our organic spray tan is also super hydrating, as it has been specifically created for dry, sensitive skin. It contains nothing artificial and is free from synthetic ingredients. It is made with only certified organic and natural ingredients sourced from Mother Nature.",
-      "price": "50.00"
-    },
-    "categories": [
+    ],
+    "variant": [
       {
-        "id": "cat_AYrQlWXOJwnbR4",
-        "slug": "treatments-body-spray-tan",
-        "name": "Body Treatment (Spray Tan)"
+        "name": "Service & Frequency",
+        "options": [
+          {
+            "description": "Spray Tan",
+            "price": "40.00"
+          },
+          {
+            "description": "Weekly Spray Tans",
+            "price": "30.00"
+          }
+        ]
       }
     ]
   }
