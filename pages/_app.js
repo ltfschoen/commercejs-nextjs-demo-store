@@ -10,7 +10,7 @@ class MyApp extends App {
     // Fetch data on load
     // Fetch categories
     const categoriesResponse = await commerce.categories.list();
-    console.log('categoriesResponse', categoriesResponse);
+    // console.log('categoriesResponse', categoriesResponse);
 
     // Match static data record to API data to find category name
     const categories = categoriesResponse.data.map(item => ({
@@ -23,7 +23,7 @@ class MyApp extends App {
     products.forEach(product => {
       // FIXME - why doesn't it return products from 3 out of the 5 categories
       // i.e. missing products from these categories: treatments-body-waxing, treatments-body-massage, treatments-body-spray-tan
-      console.log('productsResponse ', JSON.stringify(product.categories));
+      // console.log('productsResponse ', JSON.stringify(product.categories));
     });
 
     // Allows store to be updated via the dispatch action
